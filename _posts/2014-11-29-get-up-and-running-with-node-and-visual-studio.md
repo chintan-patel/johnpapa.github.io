@@ -10,7 +10,7 @@ If you've decided to immerse yourself in modern web development with JavaScript 
 
 There are plenty of articles on the topic but I wanted to take a different approach to talk less about what node does and instead show you. So let's use node to get an app up and running and then try it in Visual Studio.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/nodejs-logo-300x150.png" alt="nodejs-logo" width="300" height="150" class="aligncenter size-medium wp-image-52251" />
+<img src="/wp-content/uploads/2014/11/nodejs-logo-300x150.png" alt="nodejs-logo" width="300" height="150" class="aligncenter size-medium wp-image-52251" />
 
 <h2>The Landscape</h2>
 
@@ -18,7 +18,7 @@ Many developers have lived in their own stack for a long time, and very successf
 
 So where do we fit in? Perhaps you are a .NET and C# developer familiar with the Microsoft stack and Visual Studio tooling. Or perhaps you are a Java developer familiar with IntelliJ or Eclipse. Microsoft recognizes this shift and has made the move to <a href="http://weblogs.asp.net/scottgu/announcing-open-source-of-net-core-framework-net-core-distribution-for-linux-osx-and-free-visual-studio-community-edition">open source ASP.NET and even .NET</a> itself and move them towards being cross platform. But how do you leap into the cross platform world? Cloud is a great start, using tools like Microsoft Azure. Another great way is to learn JavaScript.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/09/angular-icon.png" alt="angular-icon" width="96" height="96" class="aligncenter size-full wp-image-21531" />
+<img src="/wp-content/uploads/2013/09/angular-icon.png" alt="angular-icon" width="96" height="96" class="aligncenter size-full wp-image-21531" />
 
 <h2>Learned Angular, Now What?</h2>
 
@@ -86,7 +86,7 @@ One way to see what packages are installed globally is to run the command
 
 This lists all global packages. The <code>--depth</code> flag tells npm how many dependencies to show. Setting it to 0 says we just want to know the root packages, not everything they depend on. This should be a short list right now, including npm and bower.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="134" height="300" class="aligncenter size-medium wp-image-52431" />
+<img src="/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="134" height="300" class="aligncenter size-medium wp-image-52431" />
 
 <h2>Gulp and Grunt</h2>
 
@@ -147,7 +147,7 @@ Now run the app by typing the following command:
 
 If you followed all of the commands, you should see your browser open and navigate to the HotTowel app!
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/09/HotTowel-NG-Preview.png" alt="HotTowel" />
+<img src="/wp-content/uploads/2013/09/HotTowel-NG-Preview.png" alt="HotTowel" />
 
 Now kill the server by going to your command prompt and hitting <code>CTRL-C</code> twice.
 
@@ -201,7 +201,7 @@ Once you <a href="http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmS
 
 Open Visual Studio and choose <code>File</code> and then <code>Open Web Site</code>. Then select the <code>myapp</code> folder. This will open the HotTowel project you just generated using yo. Now right click on the <code>gulpfile.js</code> in Solution Explorer and select <code>&gt; Task Runner Explorer</code>.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/trx.jpg" alt="Task Runner Explorer" />
+<img src="/wp-content/uploads/2014/11/trx.jpg" alt="Task Runner Explorer" />
 
 Now you'll see the Task Runner Explorer (TRX) showing list of tasks that are contained within the <code>gulpfile.js</code>. You can run those tasks by double clicking them. Try this by double clicking the <code>test</code> task. This runs the unit tests for the project and displays them in the output window in the TRX.
 
@@ -211,7 +211,7 @@ Now you'll see the Task Runner Explorer (TRX) showing list of tasks that are con
 
 You can run other tasks here and in hook into bindings, which allow you to run tasks before or after builds (for example). Right click on the <code>analyze</code> task and select <code>Bindings</code> and then <code>Before Build</code>. Then repeat that for the <code>test</code> task. This will run the <code>analyze</code> and <code>build</code> tasks before you build your project in Visual Studio.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/bindings.jpg" alt="Bindings" />
+<img src="/wp-content/uploads/2014/11/bindings.jpg" alt="Bindings" />
 
 Why is this cool? Because now you can perform code analysis on your JavaScript and run your unit tests before every build of your .NET code, automatically.
 
@@ -219,9 +219,9 @@ Now install the <a href="https://visualstudiogallery.msdn.microsoft.com/65748cdb
 
 Now open the <code>bower.json</code> and scroll to look at the dependencies list. This shows the client packages that HotTowel requires. Let's say you want to add accessibility support to the Angular app so you decide to include the Angular ARIA module. You can do that by typing <code>bower install angular-aria --save</code> from the command line. The <code>--save</code> flag will add it to the dependencies list in <code>bower.json</code>. Or you can simply type in the <code>bower.json</code> file and use intellisense to find the package you want. You get intellisense for the package name and for the version!
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/bower.jpg" alt="Bower Intellisense" />
+<img src="/wp-content/uploads/2014/11/bower.jpg" alt="Bower Intellisense" />
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/bower-version.jpg" alt="Versions" />
+<img src="/wp-content/uploads/2014/11/bower-version.jpg" alt="Versions" />
 
 This is pretty powerful because often you may not know the exact name of the package you want. Does it have a dash or a dot in its name? Now you have an easy way of finding out and avoiding typos. This also works with npm packages in the new Visual Studio tooling.
 

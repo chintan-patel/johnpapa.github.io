@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [adventuresinangular, aia, angular, javascript, Uncategorized]
 ---
-<p><a href="http://adventuresinangular.com"><img src="http://www.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> We had the pleasure of meeting with the AngularJS team to discuss the recent release of 1.3 and their plans for 2.0 on this <a href="http://jpapa.me/AiA-016">week's episode of Adventures in Angular</a>. Join us and <a href="https://twitter.com/bradleygreen">Igor</a>, <a href="https://www.youtube.com/watch?v=ojMy6m_fcxc">Brad</a>, <a href="https://twitter.com/briantford">Brian</a>, and <a href="https://twitter.com/mhevery">Misko</a> (the father of Angular) for this longer episode as we dive into their strategy. You can also read the transcripts on our site.</p>
+<p><a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> We had the pleasure of meeting with the AngularJS team to discuss the recent release of 1.3 and their plans for 2.0 on this <a href="http://jpapa.me/AiA-016">week's episode of Adventures in Angular</a>. Join us and <a href="https://twitter.com/bradleygreen">Igor</a>, <a href="https://www.youtube.com/watch?v=ojMy6m_fcxc">Brad</a>, <a href="https://twitter.com/briantford">Brian</a>, and <a href="https://twitter.com/mhevery">Misko</a> (the father of Angular) for this longer episode as we dive into their strategy. You can also read the transcripts on our site.</p>
 
 <h2>Features</h2>
 

@@ -6,9 +6,9 @@ author: John
 comments: true
 categories: [angular, gulp, javascript, pluralsight, Uncategorized]
 ---
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="67" height="150" class="alignleft size-medium wp-image-52431" />Streamlining Angular code is sublime. We can streamline the process of optimizing <a href="http://angularjs.org">Angular</a> apps for dependency injections, template caching, and common JavaScript optimizations such as minification, all in preparation for production using build automation tools like <a href="http://gulpjs.com">Gulp.js</a>. Gulp is based on streams follows the mantra of "code over configuration'.
+<img src="/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="67" height="150" class="alignleft size-medium wp-image-52431" />Streamlining Angular code is sublime. We can streamline the process of optimizing <a href="http://angularjs.org">Angular</a> apps for dependency injections, template caching, and common JavaScript optimizations such as minification, all in preparation for production using build automation tools like <a href="http://gulpjs.com">Gulp.js</a>. Gulp is based on streams follows the mantra of "code over configuration'.
 
-<a href="http://jpapa.me/gulpps"><img src="http://www.johnpapa.net/wp-content/uploads/2015/02/gulpps-600x110.png" alt="gulpps" width="600" height="110" class="aligncenter size-large wp-image-57601" /></a>
+<a href="http://jpapa.me/gulpps"><img src="/wp-content/uploads/2015/02/gulpps-600x110.png" alt="gulpps" width="600" height="110" class="aligncenter size-large wp-image-57601" /></a>
 
 My new course <a href="http://jpapa.me/gulpps">JavaScript Build Automation with Gulp.js</a> was just released on Pluralsight. You can learn how to make your JavaScript do tricks and develop more efficiently, using Gulp in this course. In this course I take you from learning what Gulp does, how to install it on both Windows and a Mac, to building an entire build pipeline step by step. I spend a lot of time explaining why each step exists and what the value of the Gulp tasks are.
 

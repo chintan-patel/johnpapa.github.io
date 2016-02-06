@@ -18,18 +18,18 @@ Recently I published a <a href="http://jpapa.me/gulpps">course on Gulp at Plural
 
 <h2>Brackets Extensions</h2>
 
-Select the extension icon in the right border of Brackets <img src="http://www.johnpapa.net/wp-content/uploads/2015/03/extensions1.png" alt="Extensions Icon" />
+Select the extension icon in the right border of Brackets <img src="/wp-content/uploads/2015/03/extensions1.png" alt="Extensions Icon" />
 
 The Extensions window will open where you can search for available extensions or themes. You can also update or remove installed extensions.
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/extensions21.png" alt="Extensions" />
+<img src="/wp-content/uploads/2015/03/extensions21.png" alt="Extensions" />
 
 <h3><a href="https://github.com/David5i6/Brackets-Delkos-Dark-Theme">Delkos Dark Theme</a></h3>
 
 My favorite theme for Brackets. Install by choosing the Extensions icon in the right brackets border,the clicking the <code>install from url</code> link, and entering the github address <a href="https://github.com/David5i6/Brackets-Delkos-Dark-Theme">https://github.com/David5i6/Brackets-Delkos-Dark-Theme</a>.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/delkos1-600x65.png" alt="delkos theme javascript" />
+<img src="/wp-content/uploads/2015/03/delkos1-600x65.png" alt="delkos theme javascript" />
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/delkos2-600x43.png" alt="delkos theme html" />
+<img src="/wp-content/uploads/2015/03/delkos2-600x43.png" alt="delkos theme html" />
 
 <h3><a href="https://github.com/sirajc/Brackets-AngularJS-CodeHints/">AngularJS Code Hints</a></h3>
 
@@ -51,53 +51,53 @@ Brackets Extension that formats open HTML, CSS, and JavaScript files using js-be
 
 Install/Update/Remove a package from Bower, prune the bower folder, and configure bower using the .bowerrc file.
 
-Click the bower icon in the Brackets right border. <img src="http://www.johnpapa.net/wp-content/uploads/2015/03/bower1.png" alt="Bower Icon" />
+Click the bower icon in the Brackets right border. <img src="/wp-content/uploads/2015/03/bower1.png" alt="Bower Icon" />
 
 Install or update packages.
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/bower2-600x262.png" alt="Bower2" />
+<img src="/wp-content/uploads/2015/03/bower2-600x262.png" alt="Bower2" />
 
 Modify the <code>.bowerrc</code> file.
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/bower3-600x144.png" alt="Bower3" />
+<img src="/wp-content/uploads/2015/03/bower3-600x144.png" alt="Bower3" />
 
 <h3><a href="https://github.com/cmgddd/Brackets-css-color-preview">Brackets Css Color Preview</a></h3>
 
 CSS color preview extension for Brackets. You can toggle this extension to enable it from the view menu.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/csspreview.png" alt="css preview" />
+<img src="/wp-content/uploads/2015/03/csspreview.png" alt="css preview" />
 
 <h3><a href="https://github.com/crot4lus/Brackets---Tabs">Brackets File Tabs</a></h3>
 
 Use tabs rather than the sidebar for working files. Enable by choosing <code>Show tabs</code> in the View menu.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/tabs-600x80.png" alt="tabs" />
+<img src="/wp-content/uploads/2015/03/tabs-600x80.png" alt="tabs" />
 
 <h3><a href="https://github.com/zaggino/brackets-git">Brackets Git</a></h3>
 
 Provides Git integration for Brackets
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/git-600x165.png" alt="git" />
+<img src="/wp-content/uploads/2015/03/git-600x165.png" alt="git" />
 
 <h3><a href="https://github.com/ivogabe/Brackets-Icons">Brackets Icons</a></h3>
 
 Adds file icons from the <a href="https://github.com/driftyco/ionicons">Ionicons project</a> to the Brackets file tree.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/icons-173x600.png" alt="icons" />
+<img src="/wp-content/uploads/2015/03/icons-173x600.png" alt="icons" />
 
 <h3><a href="https://github.com/chuyik/brackets-snippets">Brackets Snippets (by edc)</a></h3>
 
 Add custom snippets to Brackets.
 
-Click on the lightbulb icon in the right border. <img src="http://www.johnpapa.net/wp-content/uploads/2015/03/snippets1.png" alt="Snippets Icon" />
+Click on the lightbulb icon in the right border. <img src="/wp-content/uploads/2015/03/snippets1.png" alt="Snippets Icon" />
 
 Then click <code>import</code> and <code>choose a file</code> to select a yaml file containing snippets. You can use my <a href="https://raw.githubusercontent.com/johnpapa/angular-styleguide/master/assets/brackets-angular-snippets.yaml">Angular snippets found here</a>, to try it out.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/snippets2-600x228.png" alt="Snippets Window" />
+<img src="/wp-content/uploads/2015/03/snippets2-600x228.png" alt="Snippets Window" />
 
 <h3><a href="https://github.com/thehogfather/brackets-code-folding">Code Folding</a></h3>
 
 A code folding extension for Brackets based on <a href="http://codemirror.net/demo/folding.html">CodeMirror's folding addon</a>. Peforms code folding based on brace ({}, []) matching and multiline comments for javascript, json, css, php and less files. Also has some support for html and xml files based on tag matching.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/folding.png" alt="Code Folding" />
+<img src="/wp-content/uploads/2015/03/folding.png" alt="Code Folding" />
 
 The following are the default keyboard shortcut keys for the code-folding extension.
 
@@ -139,13 +139,13 @@ Generates JS/PHPDoc annotations for functions.
 <li>Use the shortCut <code>Ctrl-Alt-D</code> (Win) or <code>Ctrl-Shift-D</code> (Mac) to start the documentation or <code>/**</code> + <code>Enter</code></li>
 </ul>
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/funcdocr-600x143.png" alt="FuncDocr" />
+<img src="/wp-content/uploads/2015/03/funcdocr-600x143.png" alt="FuncDocr" />
 
 <h3><a href="https://github.com/lkcampbell/brackets-indent-guides">Indent Guides</a></h3>
 
 Shows indent guides in the code editor. Enable by selecting <code>View</code> and <code>Indent Guides</code>.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/indent-600x234.png" alt="Indent" />
+<img src="/wp-content/uploads/2015/03/indent-600x234.png" alt="Indent" />
 
 <h3><a href="https://github.com/globexdesigns/brackets-jscs">JSCS</a> and <a href="https://github.com/cfjedimaster/brackets-jshint">JSHint</a></h3>
 
@@ -175,16 +175,16 @@ If you have disabled the default Brackets JSLinting service, you will need to ma
 
 These will look for your <code>.jshintrc</code> and <code>.jscsrc</code> files for the rules to use for linting. You can see the violated rules in a collapsible window at the bottom of the editor
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/lint.png" alt="Linting" />
+<img src="/wp-content/uploads/2015/03/lint.png" alt="Linting" />
 
 <h3><a href="https://github.com/gruehle/MarkdownPreview">Markdown Preview</a></h3>
 
 Markdown editor and preview support.
 
 When a markdown document (with extension ".md" or ".markdown") is open, a markdown icon is shown in the toolbar at the top of the Brackets window. Click this icon to open the preview panel. 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/md1.png" alt="MD Icon" />
+<img src="/wp-content/uploads/2015/03/md1.png" alt="MD Icon" />
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/03/md2-600x381.png" alt="MD" />
+<img src="/wp-content/uploads/2015/03/md2-600x381.png" alt="MD" />
 
 <h3><a href="https://github.com/dsbonev/whitespace-normalizer">Whitespace Normalizer</a></h3>
 

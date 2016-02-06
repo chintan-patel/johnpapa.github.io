@@ -13,7 +13,7 @@ There is a lot of value in using consistent patterns in code. When I find myself
 <h2>AngularJS Snippets</h2>
 There's a great set of <a href="http://msdn.microsoft.com/en-us/library/ms165394.aspx" target="_blank">simple instructions on this MSDN post</a> for creating snippets. I recommend reading this through so you can create your own, or modify mine to suit your needs.
 <h2>Controllers</h2>
-I created <a href="http://www.johnpapa.net/wp-content/uploads/files/downloads/ng-snippets.zip" target="_blank">snippets for creating controllers, services via factories, and directives</a> using a pattern that's emerged for me. You can <a href="http://www.johnpapa.net/wp-content/uploads/files/downloads/ng-snippets.zip" target="_blank">download them here</a>.
+I created <a href="/wp-content/uploads/files/downloads/ng-snippets.zip" target="_blank">snippets for creating controllers, services via factories, and directives</a> using a pattern that's emerged for me. You can <a href="/wp-content/uploads/files/downloads/ng-snippets.zip" target="_blank">download them here</a>.
 
 Once you grab these, go ahead and install them in Visual Studio. Type <code>CTRL K, CTRL B</code> to get to the Code Snippets Manager. Select JavaScript as the language, open My Code Snippets, then click the import button. Locate each snippet and import them.
 <pre class="prettyprint linenums">

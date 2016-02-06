@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [Uncategorized]
 ---
-<p><a href="http://adventuresinangular.com"><img src="http://www.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="200" height="201" class="alignleft size-full wp-image-32351" /></a> I love talking to developers about JavaScript, web development, and Angular in particular. That's why I'm excited to announce that I have joined as a co-host on the new podcast for Adventures in Angular (aka AiA or ngAdventures), brought to you by the same folks who host the popular JavaScript Jabber show.</p>
+<p><a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="200" height="201" class="alignleft size-full wp-image-32351" /></a> I love talking to developers about JavaScript, web development, and Angular in particular. That's why I'm excited to announce that I have joined as a co-host on the new podcast for Adventures in Angular (aka AiA or ngAdventures), brought to you by the same folks who host the popular JavaScript Jabber show.</p>
 
 <p>You can check out our:</p>
 

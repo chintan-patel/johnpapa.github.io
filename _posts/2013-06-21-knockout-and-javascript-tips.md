@@ -8,7 +8,7 @@ categories: [course, debugging, javascript, knockout, performance, pluralsight, 
 ---
 Building JavaScript apps or SPA's with Knockout and interested in taking those skills up a notch? Then check out my new course <a href="http://jpapa.me/kotips" target="_blank">Essential Knockout and JavaScript Tips</a>, at <a href="http://pluralsight.com" target="_blank">Pluralsight</a>. By the end of this course you will learn more about how Knockout works, various debugging techniques for declarative HTML and JavaScript view models, exploring your data context and observables, the many uses of custom bindings, the power of subscriptions, custom functions and performance tuning.
 
-<a href="http://jpapa.me/kotips" target="_blank"><img src="http://www.johnpapa.net/wp-content/uploads/2013/06/kotips-600x132.jpg" alt="kotips" width="600" height="132" class="aligncenter size-large wp-image-18851" /></a>
+<a href="http://jpapa.me/kotips" target="_blank"><img src="/wp-content/uploads/2013/06/kotips-600x132.jpg" alt="kotips" width="600" height="132" class="aligncenter size-large wp-image-18851" /></a>
 
 <h3>What's in the Course?</h3>
 This <a href="http://jpapa.me/kotips" target="_blank">Essential Knockout and JavaScript Tips course</a> helps explain how to fine tune your Knockout based JavaScript apps. The course is divided into "Rounds" (a Knockout and boxing pun) with each round focusing on enhancing specific sets of Knockout and JavaScript skills. 
@@ -32,7 +32,7 @@ Most of the code samples are based either on my Code Camper SPA (as seen in my S
 
 <h3>Knockout Fundamentals</h3>
 If you need a refresher on any of the Knockout Fundamentals, you can watch my beginner level Knockout course on Pluralsight too.
-<a href="http://jpapa.me/komvvm" target="_blank"><img src="http://www.johnpapa.net/wp-content/uploads/2013/03/image_3-600x119.png" alt="image_3" width="600" height="119" class="aligncenter size-large wp-image-16211" border="0" /></a>
+<a href="http://jpapa.me/komvvm" target="_blank"><img src="/wp-content/uploads/2013/03/image_3-600x119.png" alt="image_3" width="600" height="119" class="aligncenter size-large wp-image-16211" border="0" /></a>
 
 More Knockout Resources
 <ul>
@@ -47,5 +47,5 @@ More Knockout Resources
 I have a bunch of courses in mind including expanding on (in alphabetical order) Angular, Breeze, Durandal, JavaScript, and SPA Tips. 
 
 <h3>Thanks to Fotolia</h3>
-If you enjoy the photos in my slides for this course, then you can thank my subscription with Fotolia.com for those. <a href="http://jpapa.me/fotoliapapa" target="_blank">You can get a discount on fotolia.com images by following this link. <img src="http://www.johnpapa.net/wp-content/uploads/2013/05/fotolia-52_600.jpg" alt="fotolia-52_600" width="600" height="206" class="aligncenter size-full wp-image-18351" /></a>
+If you enjoy the photos in my slides for this course, then you can thank my subscription with Fotolia.com for those. <a href="http://jpapa.me/fotoliapapa" target="_blank">You can get a discount on fotolia.com images by following this link. <img src="/wp-content/uploads/2013/05/fotolia-52_600.jpg" alt="fotolia-52_600" width="600" height="206" class="aligncenter size-full wp-image-18351" /></a>
 

@@ -19,4 +19,4 @@ View more of my presentations on <a href="https://speakerdeck.com/u/johnpapa">Sp
 <a href="/wp-content/uploads/files/downloads/CCJS-Oct2012.zip">Sample code shown in the presentation for the SPA can be found here</a>. (The demos require Visual Studio 2012 and you'll need to enable package restore so they can grab the NuGet packages.)
 
 In the meantime, if you are interested in creating a SPA you can check out in my in depth course <a href="http://jpapa.me/spaps">Single Page Apps</a> at <a href="http://www.pluralsight.com/">Pluralsight</a>, which covers dozens of topics while building a SPA from end to end.
-<a href="http://jpapa.me/spaps" rel="attachment wp-att-8761" target="_blank"><img class="aligncenter size-full wp-image-8761" title="spaps" src="http://www.johnpapa.net/wp-content/uploads/2012/11/spaps1.png" alt="" width="508" height="92" /></a>
+<a href="http://jpapa.me/spaps" rel="attachment wp-att-8761" target="_blank"><img class="aligncenter size-full wp-image-8761" title="spaps" src="/wp-content/uploads/2012/11/spaps1.png" alt="" width="508" height="92" /></a>

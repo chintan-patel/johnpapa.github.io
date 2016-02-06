@@ -8,11 +8,11 @@ categories: [Uncategorized]
 ---
 Mac OSX, Linux, or Windows ... pick your OS! I recently co-presented the launch of Visual Studio Code (aka Code) at //Build with Erich Gamma and Chris Diaz, and <a href="http://jpapa.me/psvscodewebinar">on May 26th, 2015 at 10 PT you can join me for a live presentation of Code as a cross-platform editor followed by an interactive Q&amp;A</a>.
 
-<a href="http://jpapa.me/psvscodewebinar"><img src="http://www.johnpapa.net/wp-content/uploads/2015/05/ps-vs-code-600x206.png" alt="ps-vs-code" width="600" height="206" class="aligncenter size-large wp-image-61431" /></a>
+<a href="http://jpapa.me/psvscodewebinar"><img src="/wp-content/uploads/2015/05/ps-vs-code-600x206.png" alt="ps-vs-code" width="600" height="206" class="aligncenter size-large wp-image-61431" /></a>
 
 Whether you are on a Mac or Windows and into Angular, TypeScript, JavaScript, Node.js and/or C#/ASP.NET there's something here for you! Just some of the topics discussed include getting started, editing, refactoring, debugging, running tasks, and what's coming down the road.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/05/vslayout-600x344.png" alt="vslayout" width="600" height="344" class="aligncenter size-large wp-image-61451" />
+<img src="/wp-content/uploads/2015/05/vslayout-600x344.png" alt="vslayout" width="600" height="344" class="aligncenter size-large wp-image-61451" />
 
 <h2>Visual Studio Code Series</h2>
 

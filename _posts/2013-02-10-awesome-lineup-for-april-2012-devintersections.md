@@ -8,7 +8,7 @@ categories: [events, Uncategorized]
 ---
 Technology has been changing at a rapid pace over the past few years and so are conferences. It’s a great time to head to one of the newer conferences like <a href="http://devintersection.com?papa" target="_blank">ASP.NET and HTML5 DevIntersection  from April 8 - 11 at the MGM Grand in Las Vegas, NV</a>. I’ll be there with a whole new round of sessions myself including talks on JavaScript, TypeScript and a full day workshop on building Single Page Applications.
 
-<a href="http://devintersection.com/?papa" target="_blank" rel="attachment wp-att-14461"><img class="aligncenter size-full wp-image-14461" alt="devintersection banner" src="http://www.johnpapa.net/wp-content/uploads/2013/02/devintersection-banner.png" width="550" height="107" /></a>
+<a href="http://devintersection.com/?papa" target="_blank" rel="attachment wp-att-14461"><img class="aligncenter size-full wp-image-14461" alt="devintersection banner" src="/wp-content/uploads/2013/02/devintersection-banner.png" width="550" height="107" /></a>
 
 Of course, there’s much much more too including many great speakers like:
 <ul>
@@ -22,7 +22,7 @@ And of course there are many more!
 
 If you want more incentive to come, check this out (I pulled this quote off the event's web site):
 <blockquote><strong>We are offering a great Show package that will include a Surface with Windows RT tablet and a full-day workshop.</strong></blockquote>
-<a href="https://www.devintersection.com/shows/april13/register.aspx?s=2&amp;papa" target="_blank" rel="attachment wp-att-14491"><img class="aligncenter size-full wp-image-14491" alt="NexGenSite-April13-Tablet-vers4" src="http://www.johnpapa.net/wp-content/uploads/2013/02/NexGenSite-April13-Tablet-vers4.png" width="300" height="185" /></a>
+<a href="https://www.devintersection.com/shows/april13/register.aspx?s=2&amp;papa" target="_blank" rel="attachment wp-att-14491"><img class="aligncenter size-full wp-image-14491" alt="NexGenSite-April13-Tablet-vers4" src="/wp-content/uploads/2013/02/NexGenSite-April13-Tablet-vers4.png" width="300" height="185" /></a>
 
 <b><a href="https://www.devintersection.com/shows/april13/wsregister.aspx?w=106&amp;papa" target="_blank">Day of Single Page Applications (8:30 AM - 4:30 PM)</a></b>
 

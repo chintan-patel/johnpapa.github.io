@@ -14,7 +14,7 @@ categories: [angular, javascript, Uncategorized]
 
 <p>I like the type organization (folders for controllers and views, for example), but as an app grows, instead of putting that at the root and putting all views and controllers in their own folders, sometimes it makes more sense to organize them 1 level deeper into feature areas. For a similar approach, see <a href="http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript" target="_blank">Cliff Meyer's great post</a>. We tend to look for the one right answer, but often there are many good options. You have to choose what feels right for you.</p>
 
-<p>So how might this look? There are a lot of ways we could do this, but let's focus on two options side by side. <img src="http://www.johnpapa.net/wp-content/uploads/2013/08/NgStructureCompare.jpg" alt="NgStructureCompare" width="529" height="596" class="aligncenter size-full wp-image-21361" /></p>
+<p>So how might this look? There are a lot of ways we could do this, but let's focus on two options side by side. <img src="/wp-content/uploads/2013/08/NgStructureCompare.jpg" alt="NgStructureCompare" width="529" height="596" class="aligncenter size-full wp-image-21361" /></p>
 
 <h2>Sort By Type</h2>
 

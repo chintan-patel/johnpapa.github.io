@@ -33,5 +33,5 @@ As always, you can <a href="http://johnpapa.net/hottowel" target="_blank">find a
 
 <h2>Update</h2>
 Eventually we should be seeing a more unified "One ASP.NET" approach when creating a project. Scott Hanselman has been a big driver behind this effort. i expect that is one reason why currently in the VS 2013 Preview the ASP.NET templates are now under a <code>Visual Studio 2012</code> folder in the <code>New Project</code> dialog. I am not sure if this will move in the future, but that is my gut feel. For now, if you are running VS 2013 Preview and you cannot find the HotTowel SPA template, refer to my image below to locate it.
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/09/2013-2012-mvc-600x302.png" alt="2013 2012 mvc" width="600" height="302" class="aligncenter size-large wp-image-20681" />
+<img src="/wp-content/uploads/2013/09/2013-2012-mvc-600x302.png" alt="2013 2012 mvc" width="600" height="302" class="aligncenter size-large wp-image-20681" />
 

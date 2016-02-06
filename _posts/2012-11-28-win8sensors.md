@@ -8,7 +8,7 @@ categories: [pluralsight, review, ultrabook, Uncategorized, windows 8]
 ---
 <p style="text-align: left;">The combination of good sensors and simplicity of tapping into the Windows 8 sensor APIs are really going to open the doors to some great apps. In this final review I'll touch on the core sensors, how they fared, and how to tap into each of them.</p>
 <p style="text-align: left;">I've received a few pieces of hardware and software over the years for review purposes. Unfortunately, some of the hardware I receive falls far short of my expectations and hardly ever gets used again. This is definitely not the case with the Intel IvyBridge Ultrabook running Windows 8 Pro that I received. My experience with it over that time has left me extremely impressed for speed, portability, touch and a broad array of sensors.</p>
-<img class="size-large wp-image-9941 aligncenter" title="win8" src="http://www.johnpapa.net/wp-content/uploads/2012/11/win8-600x337.png" alt="" width="600" height="337" />
+<img class="size-large wp-image-9941 aligncenter" title="win8" src="/wp-content/uploads/2012/11/win8-600x337.png" alt="" width="600" height="337" />
 <blockquote>From what I can tell, the machine itself is not one that we'll see in stores,  but instead its simply just a model Intel used as a sample to show what OEM’s can create for Windows 8. Mine is not branded and has stickers all over its bottom saying that its not for retail. However, the Intel components inside this device will be showing up in devices you can purchase.</blockquote>
 You can read <a href="http://www.johnpapa.net/first-look-at-3rd-generation-intel-ivy-bridge-ultrabook/">my initial impressions of the IvyBridge Ultrabook here</a> and my <a href="http://www.johnpapa.net/intel-ivybridge-ultrabook-sensors/" target="_blank">follow up on my 2 week reaction here</a>. This ultrabook is easily portable and has many ports built in so I do not need a ton of dongles. That's key when you travel and present like me. I can easily slip it into my bag and carry it around for presentations and get a lot of work done on it.
 
@@ -16,7 +16,7 @@ It's fast. I live in Visual Studio 2012 and several other development tools. Spe
 
 In October I used this device to test some <a href="http://pluralsight.com/training/Courses/TableOfContents/win8-intro" target="_blank">Windows 8 course material</a> <a href="http://twitter.com/danwahlin" target="_blank">Dan Wahlin</a> and I authored for <a href="http://pluralsight.com" target="_blank">Pluralsight</a>. I was using quite a bit at the same time including Visual Studio 2012, Powerpoint, and OneNote. It all went very smooth on this device. You can learn more about this Introduction to Windows 8 course by clicking the image below.
 
-<a href="http://pluralsight.com/training/Courses/TableOfContents/win8-intro" target="_blank"><img class="aligncenter" title="Win8Course" src="http://www.johnpapa.net/wp-content/uploads/2012/10/10-11-2012-5-54-58-PM.png" alt="" width="500" height="85" /></a>
+<a href="http://pluralsight.com/training/Courses/TableOfContents/win8-intro" target="_blank"><img class="aligncenter" title="Win8Course" src="/wp-content/uploads/2012/10/10-11-2012-5-54-58-PM.png" alt="" width="500" height="85" /></a>
 <h2>Sensors</h2>
 Windows 8 exposes a variety of APIs to access the device sensors. The Windows team made several examples available so you can test the sensors. You can find APIs for sensors including (but not limited to) these APIs:
 <ul>
@@ -140,7 +140,7 @@ ScenarioOutput_MagneticNorth.Text = String.Format("{0,5:0.00}", reading.HeadingM
 }</pre>
 <h2>OrientationSensor</h2>
 <div>The OrientationSensor combines the accelerometer, compass, and gyrometer to report even more sensitive movement than the sensors can on their own. You could use this to orient an image on the screen by reading the device orientation, the screen orientation and the accelerometer, for example.</div>
-<div><a href="http://www.johnpapa.net/win8sensors/orientation/" rel="attachment wp-att-10161"><img class="aligncenter size-large wp-image-10161" title="orientation" src="http://www.johnpapa.net/wp-content/uploads/2012/11/orientation-600x337.png" alt="" width="600" height="337" /></a></div>
+<div><a href="http://www.johnpapa.net/win8sensors/orientation/" rel="attachment wp-att-10161"><img class="aligncenter size-large wp-image-10161" title="orientation" src="/wp-content/uploads/2012/11/orientation-600x337.png" alt="" width="600" height="337" /></a></div>
 <div></div>
 <div>First grab the OrientationSensor object</div>
 <pre class="prettyprint">private OrientationSensor _sensor;</pre>

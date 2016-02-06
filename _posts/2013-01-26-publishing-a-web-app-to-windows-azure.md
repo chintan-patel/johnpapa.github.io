@@ -8,7 +8,7 @@ categories: [azure, Uncategorized, visual studio 2012]
 ---
 Often I like to test my web apps in a real website. For me, Windows Azure is ideally suited for this. I can spin up a site as needed, publish my demo, test it on a variety of devices, and tear it down when I am done. the best part is that it only takes a few moments to learn how to do this. What do you need? Just install Visual Studio 2012 and open a Windows Azure account and you are all set. In this post I'll tell you how to set up an Azure website, how to publish to Azure, and offer several tips in case you run into issues along the way.
 
-<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/1-25-2013-11-04-02-pm/" rel="attachment wp-att-14321"><img src="http://www.johnpapa.net/wp-content/uploads/2013/01/1-25-2013-11-04-02-PM.png" alt="1-25-2013 11-04-02 PM" width="580" height="213" class="aligncenter size-full wp-image-14321" /></a>
+<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/1-25-2013-11-04-02-pm/" rel="attachment wp-att-14321"><img src="/wp-content/uploads/2013/01/1-25-2013-11-04-02-PM.png" alt="1-25-2013 11-04-02 PM" width="580" height="213" class="aligncenter size-full wp-image-14321" /></a>
 
 <h2>At a Glance</h2>
 In the Windows Azure Portal
@@ -25,18 +25,18 @@ In Visual Studio 2012
 The first step is to <a href="http://www.windowsazure.com/" target="_blank">sign up and create an account with Windows Azure</a>. Depending on what programs you are participating in you may qualify for different options. I'll assume that you have signed up or can figure that out on your own. The next step is to create a web site in Azure. I don't require a lot of resources for testing my apps, so when I create web sites for this purpose I just choose the smallest/cheapest options available. That is what I will go through here.
 
 <a href="https://manage.windowsazure.com" target="_blank">Go to your Windows Azure portal</a> and select the plus sign in the bottom left hand corner.
-<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-new-site/" rel="attachment wp-att-14181"><img src="http://www.johnpapa.net/wp-content/uploads/2013/01/azure-new-site.png" alt="azure-new site" width="600" height="485" class="aligncenter size-full wp-image-14181" /></a>
+<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-new-site/" rel="attachment wp-att-14181"><img src="/wp-content/uploads/2013/01/azure-new-site.png" alt="azure-new site" width="600" height="485" class="aligncenter size-full wp-image-14181" /></a>
 
 Then choose the Web Site option, and the Quick Create option. From here, it will ask you to type in the url you want. It automatically places you in the azurewebsites.net domain. (You can reconfigure  this later if you want to use a domain that you own.) I typed in papademonstration so I get papademonstration.azurewebsites.net. I trust you will pick something far shorter :)
 
-<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-quick-create/" rel="attachment wp-att-14211"><img src="http://www.johnpapa.net/wp-content/uploads/2013/01/azure-quick-create.png" alt="azure-quick create" width="550" height="170" class="aligncenter size-full wp-image-14211" /></a>
+<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-quick-create/" rel="attachment wp-att-14211"><img src="/wp-content/uploads/2013/01/azure-quick-create.png" alt="azure-quick create" width="550" height="170" class="aligncenter size-full wp-image-14211" /></a>
 
 In my experience, it will take anywhere from 30 seconds to a few minutes to spin up the new site. When using the Quick Create you get a very simple setup. You can configure your domain name, whether you want to share a virtual server or get a reserved server, how many cores, instances, memory and so on. For this post, I'm just focusing on the simple route where you want to spin up a site so you can test your app, and for that the Quick Create is all I'll need.
 
 <h2>Publishing Profile</h2>
 Next you are going to want to know how to connect Visual Studio to Azure so you can publish your project to it. For this you will need the publishing profile. Once the web site's status says <code>running</code> instead of <code>creating ...</code>, click on the name of the web site in the Azure portal. You will then see the dashboard for that new site. On the right you will see a section titled <code>quick glance</code>. From here you can click the link to <code>download publish profile</code>.
 
-<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-dashboard/" rel="attachment wp-att-14241"><img src="http://www.johnpapa.net/wp-content/uploads/2013/01/azure-dashboard.png" alt="azure-dashboard" width="308" height="274" class="aligncenter size-full wp-image-14241" /></a>
+<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/azure-dashboard/" rel="attachment wp-att-14241"><img src="/wp-content/uploads/2013/01/azure-dashboard.png" alt="azure-dashboard" width="308" height="274" class="aligncenter size-full wp-image-14241" /></a>
 
 This will download the profile to your computer. It is a text file and if you open it you can see it contains sensitive information about connecting to your site.
 
@@ -47,7 +47,7 @@ Next, go to Visual Studio 2012 and open your project. Be sure that all of the Nu
 
 While the project is selected, go to the Visual Studio 2012 menu and select Build and Publish.
 
-<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/publish/" rel="attachment wp-att-14251"><img src="http://www.johnpapa.net/wp-content/uploads/2013/01/publish.png" alt="publish" width="419" height="321" class="aligncenter size-full wp-image-14251" /></a>
+<a href="http://www.johnpapa.net/publishing-a-web-app-to-windows-azure/publish/" rel="attachment wp-att-14251"><img src="/wp-content/uploads/2013/01/publish.png" alt="publish" width="419" height="321" class="aligncenter size-full wp-image-14251" /></a>
 
 You will see a dialog that allows you to import a profile. Click the import button and locate the publish profile you recently downloaded for your new web site. This is how you tell Visual Studio 2012 where to send your code. Then click the <code>next</code> button. I recommend clicking the <code>Validation Connection</code> button on the Connection dialog, just to verify it can communicate with the web site. Then click the <code>next</code> button and you will see the settings dialog, where you can choose which configuration to publish (release, debug, etc). Then click the <code>next</code> button again and yu will see the preview dialog. I recommend always coming to this dialog and click the <code>Start Preview</code> button. Sometime you will see "Preview Failed (click here for details)". Often the error message it reveals is obtuse, so I simply close this, save any changes to the profile, clean and rebuild the solution and try again. It often works after that. 
 

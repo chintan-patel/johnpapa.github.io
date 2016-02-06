@@ -10,7 +10,7 @@ Glimpse.Toastr, a plugin for integrating toastr diagnostics into Glimpse, is now
 
 If you haven't checked out <a href="http://getglimpse.com/" target="_blank">Glimpse</a> yet, you are missing out. And if you haven't checked it out recently, then definitely go grab the latest as its new Heads Up Display (HUD) is nothing but awesome-sauce! At a glance it gives you a ton of information to help debug your app. What makes Glimpse stand out is that it works in any browser (it's not a browser plug-in), shows server or client information, and is constantly being improved.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/07/glimpse1-600x185.png" alt="Glimpse HUD" width="600" height="185" class="aligncenter size-large wp-image-19001" />
+<img src="/wp-content/uploads/2013/07/glimpse1-600x185.png" alt="Glimpse HUD" width="600" height="185" class="aligncenter size-large wp-image-19001" />
 
 <h3>Glimpse Heads Up Display</h3>
 In its passive state, Glimpse's HUD is a toolbar at the bottom of the page that updates dynamically as you interact with your app. It shows you some interesting stats based on the extensions that you enabled. The image above shows the request times for the page to load over HTTP, Ajax calls, and the controllers that fired. It's active state is enabled when you roll over a specific area. This causes a panel to appear with even more detailed information.

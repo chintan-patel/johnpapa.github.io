@@ -42,7 +42,7 @@ app.em.fetchMetadata().then(function () { initValidation(app.em); });
 </pre>
 
 Here you can see the demo app running with a validation error <a href="http://toastrjs.com" target="_blank">toastr</a> alert highlighting the error. By using the manual validation invocation that is demonstrated in module 8, you can block dismissing the dialog if there are any validation errors. You can also do async server calls to execute server validation rules, get back the errors and act on them or display them on the client side, all also discussed and demonstrated in the validation modules.
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/10/val-demo-image.jpg" alt="val-demo-image" width="600" height="447" class="aligncenter size-full wp-image-21931" />
+<img src="/wp-content/uploads/2013/10/val-demo-image.jpg" alt="val-demo-image" width="600" height="447" class="aligncenter size-full wp-image-21931" />
 
 This year (2013) I will be releasing a course that shows how to use many of these concepts in a powerful SPA built with Angular and Breeze. So I recommend watching Brian's course in preparation for my upcoming one!
 

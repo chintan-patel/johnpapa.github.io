@@ -23,7 +23,7 @@ SideWaffle currently has several templates including 10 I contributed for <a hre
 I use the Angular templates in my upcoming course at <a href="http://www.pluralsight.com" target="_blank">Pluralsight</a> on using Angular and Breeze to build a powerful SPA.
 <h2>What's in it for You?</h2>
 Imagine you are in a web project writing Angular code. You want to create a new Angular controller. What do you do today? You might create a new JavaScript file and use a <a href="http://www.johnpapa.net/angularjs-code-snippets-for-visual-studio/" target="_blank">code snippet like my <code>ngctrl</code> snippet</a>, or you could write it from scratch. But now with SideWaffle you can click <code>CTRL+SHIFT+A</code> to add a new file and choose the Angular Controller file template from SideWaffle. 
-<img src="http://www.johnpapa.net/wp-content/uploads/2013/08/SideWaffle-600x452.png" alt="SideWaffle" width="600" height="452" class="aligncenter size-large wp-image-20321" />
+<img src="/wp-content/uploads/2013/08/SideWaffle-600x452.png" alt="SideWaffle" width="600" height="452" class="aligncenter size-large wp-image-20321" />
 
 So when you open the Add New Item dialog, choose the SideWaffle sub-folder (just to narrow the scope) and/or search for the template name in the search box. Then select the template and enter the name for the file. Some of the templates will use the file and/or project name where appropriate in generating the file. Below is an example of what the Angular Controller template generates when you name the file <code>sessions.js</code>. The whole idea is to get you started.
 <pre class="prettyprint linenums">

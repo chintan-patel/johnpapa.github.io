@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [Uncategorized]
 ---
-<a href="http://adventuresinangular.com"><img src="http://www.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss Structuring code in an Angular app on this <a href="http://jpapa.me/AiA-020">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/danwahlin">Dan Wahlin</a> for this episode as we dive into solid patterns and strategies for working with Angular. You can also read the transcripts on our site.
+<a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss Structuring code in an Angular app on this <a href="http://jpapa.me/AiA-020">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/danwahlin">Dan Wahlin</a> for this episode as we dive into solid patterns and strategies for working with Angular. You can also read the transcripts on our site.
 
 <h2>Adventures in Angular</h2>
 

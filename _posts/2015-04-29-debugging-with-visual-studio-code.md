@@ -25,13 +25,13 @@ Follow this series to learn more about what you can do with Visual Studio Code!
 
 You can debug server side JavaScript in right in VSCode. Just create a debug launch task and go. First, click on the debug icon in the sidebar or <code>CMD+SHIFT+D</code>. Then click on the gear icon next to the debug button in the upper left. This opens the debug configuration settings (in <code>.settings/launch.json</code>).
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/js-debug0.png" alt="js-debug0.png" />
+<img src="/wp-content/uploads/2015/04/js-debug0.png" alt="js-debug0.png" />
 
 Here you can define a launch configuration for debugging. Notice the type is set to node and the <code>program to start</code> is set to <code>/src/server/app.js</code> (choose your path accordingly). It will also stop upon entry, so you can debug on the first entry point to the <code>app.js</code>. This is important when you want to see how the node server is being started.
 
 Once the debug configuration is established you can choose your configuration form the dropdown and click the green button, or alternatively press <code>F5</code> to begin debugging.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/js-debug1.png" alt="js-debug1.png" />
+<img src="/wp-content/uploads/2015/04/js-debug1.png" alt="js-debug1.png" />
 
 The node server will start and stop at the first line of code in <code>app.js</code>. You can then set watchers, breakpoints (or disable them), see the call stack, or examine local variables.
 
@@ -39,7 +39,7 @@ The node server will start and stop at the first line of code in <code>app.js</c
 
 You can also step through the code using the debug menu in the top middle of VSCode.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/js-debug2.png" alt="js-debug2.png" />
+<img src="/wp-content/uploads/2015/04/js-debug2.png" alt="js-debug2.png" />
 
 The buttons have keyboard mappings for:
 

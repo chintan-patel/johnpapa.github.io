@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [intel, review, Uncategorized, windows 8]
 ---
-<a href="http://www.johnpapa.net/wp-content/uploads/2012/09/DSC_2212.png"><img class="size-medium wp-image-7591 alignright" style="color: #333333; font-style: normal; line-height: 24px;" title="DSC_2223" src="http://www.johnpapa.net/wp-content/uploads/2012/09/DSC_2223-300x200.png" alt="" width="300" height="200" /></a>
+<a href="/wp-content/uploads/2012/09/DSC_2212.png"><img class="size-medium wp-image-7591 alignright" style="color: #333333; font-style: normal; line-height: 24px;" title="DSC_2223" src="/wp-content/uploads/2012/09/DSC_2223-300x200.png" alt="" width="300" height="200" /></a>
 
 I've been using the Intel IvyBridge Ultrabook that I received from the folks at Intel for the past few weeks. My experience with it over that time has left me extremely impressed. The array of sensors on the device are perhaps the most impressive.
 <blockquote>From what I can tell, the machine itself is not one that we'll see in stores,  but instead its simply just a model Intel used as a sample to show what OEM’s can create for Windows 8.</blockquote>

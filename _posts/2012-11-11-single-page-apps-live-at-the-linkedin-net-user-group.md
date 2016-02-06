@@ -13,7 +13,7 @@ Interested in learning more about Single Page Apps? Want to watch right from you
 	<li>When: Thursday Novemeber 15th, 2012 at 1:00pm EST to 2:30 pm EST</li>
 	<li><strong>Where: <a href="http://lidnug-johnpapa-spa.eventbrite.com/" target="_blank">Register here for the LIDNUG event</a></strong></li>
 </ul>
-<a href="http://www.johnpapa.net/single-page-apps-live-at-the-linkedin-net-user-group/11-11-2012-9-28-58-am-2/" rel="attachment wp-att-9701"><img class="aligncenter size-large wp-image-9701" title="CCJS1" src="http://www.johnpapa.net/wp-content/uploads/2012/11/11-11-2012-9-28-58-AM1-600x436.png" alt="" width="600" height="436" /></a>
+<a href="http://www.johnpapa.net/single-page-apps-live-at-the-linkedin-net-user-group/11-11-2012-9-28-58-am-2/" rel="attachment wp-att-9701"><img class="aligncenter size-large wp-image-9701" title="CCJS1" src="/wp-content/uploads/2012/11/11-11-2012-9-28-58-AM1-600x436.png" alt="" width="600" height="436" /></a>
 
 Event Details
 <blockquote>Single Page Applications (SPAs) focus on delivering better user experiences with significant client-side interactions using JavaScript, HTML5 and CSS. But how do you get started? This session explores the core pieces that help you build end-to-end SPA solutions including code structure and modularity, using data binding and MVVM, abstracted remote data calls, page navigation and routing, rich data features, and responsive design for mobility. Along the way I'll be touching on the ASP.NET SPA template preview, <a href="http://knockoutjs.com" target="_blank">Knockout</a>, <a href="http://sammyjs.org" target="_blank">Sammy</a>, and <a href="http://breezejs.com" target="_blank">Breeze</a>.</blockquote>
@@ -21,6 +21,6 @@ The Linked In .NET User Group (LIDNUG) has a great community, but then again LI
 
 After the session, if you want to get more details on how to go  further with a SPA, you can refer to my <a href="http://www.johnpapa.net/building-single-page-apps-with-knockout-jquery-and-web-api-ndash-the-story-begins" target="_blank">SPA blog post series</a> or watch my <a href="http://jpapa.me/spaps" target="_blank">video course on building Single Page Apps</a>.
 
-<a href="http://jpapa.me/spaps" target="_blank"><img title="spaps" src="http://www.johnpapa.net/wp-content/uploads/2012/11/spaps1.png" alt="" width="508" height="92" /></a>
+<a href="http://jpapa.me/spaps" target="_blank"><img title="spaps" src="/wp-content/uploads/2012/11/spaps1.png" alt="" width="508" height="92" /></a>
 
 &nbsp;

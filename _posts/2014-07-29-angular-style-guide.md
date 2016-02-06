@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [angular, javascript, open source, patterns, pluralsight, Uncategorized]
 ---
-<p><img src="http://www.johnpapa.net/wp-content/uploads/2013/09/angular-icon.png" alt="angular-icon" width="96" height="96" class="alignleft size-full wp-image-21531" /> I just <a href="https://github.com/johnpapa/angularjs-styleguide">published the first draft of my opinionated style guide for syntax, conventions, and structuring AngularJS applications</a>. You'll find many of these and more explained in deeper detail in my <strong>Pluralsight course AngularJS: Clean Code</strong> (coming in August 2014). The styles contained here are based on on my experience with <a href="//angularjs.org">AngularJS</a>, presentations, <a href="http://pluralsight.com/training/Authors/Details/john-papa">Pluralsight training courses</a> and working in teams. I will keep this guide updated on github.</p>
+<p><img src="/wp-content/uploads/2013/09/angular-icon.png" alt="angular-icon" width="96" height="96" class="alignleft size-full wp-image-21531" /> I just <a href="https://github.com/johnpapa/angularjs-styleguide">published the first draft of my opinionated style guide for syntax, conventions, and structuring AngularJS applications</a>. You'll find many of these and more explained in deeper detail in my <strong>Pluralsight course AngularJS: Clean Code</strong> (coming in August 2014). The styles contained here are based on on my experience with <a href="//angularjs.org">AngularJS</a>, presentations, <a href="http://pluralsight.com/training/Authors/Details/john-papa">Pluralsight training courses</a> and working in teams. I will keep this guide updated on github.</p>
 
 <h2>Usage and Purpose</h2>
 

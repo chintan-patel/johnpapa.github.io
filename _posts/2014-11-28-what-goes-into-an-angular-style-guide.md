@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [adventuresinangular, angular, Uncategorized]
 ---
-<p><a href="http://adventuresinangular.com"><img src="http://www.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss what goes into creating an Angular style guide on this <a href="http://jpapa.me/AiA-018">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/wardbell">Ward Bell</a> for this episode as we dive into style guide strategies. You can also read the transcripts on our site.</p>
+<p><a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss what goes into creating an Angular style guide on this <a href="http://jpapa.me/AiA-018">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/wardbell">Ward Bell</a> for this episode as we dive into style guide strategies. You can also read the transcripts on our site.</p>
 
 <p>You can learn more about my <a href="http://jpapa.me/ngstyles">Angular Style Guide here</a>, which now has style codes for each item and several language translations updated by the community.</p>
 

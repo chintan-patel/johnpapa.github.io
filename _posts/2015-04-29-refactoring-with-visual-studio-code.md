@@ -29,7 +29,7 @@ VSCode will move a line up when you use <code>OPT+UPARROW</code> or down when yo
 
 When you have multiple errors or warnings, you can visit each of them in the current file using the Go to Next Error or Warning. Press <code>F8</code> and you will see the first error or warning. Press <code>F8</code> again and you will see the next one.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/goto-marker.png" alt="go to marker" />
+<img src="/wp-content/uploads/2015/04/goto-marker.png" alt="go to marker" />
 
 <h2>Go to Definition</h2>
 
@@ -39,7 +39,7 @@ When you are looking at your code and you want to find where a function or varia
 
 This is like the <a href="go-to-definition">Go to Definition</a> except instead of navigating to the definition a window appears showing you a peek of the definition. Seeing is believing, so check this out below, using <code>OPTION F12</code>
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/peek1.png" alt="peek1" />
+<img src="/wp-content/uploads/2015/04/peek1.png" alt="peek1" />
 
 You can edit either file in this mode. If you want to navigate to the file, click on the file name in the header of the peek view. You can exit this mode and close the peek by clicking <code>ESC</code>.
 
@@ -51,19 +51,19 @@ This is helpful when refactoring so you can find all of the places a function or
 
 Notice that the files are displayed to the right. You can click on these to see each references.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/far.png" alt="far" />
+<img src="/wp-content/uploads/2015/04/far.png" alt="far" />
 
 <h2>Change All Occurrences</h2>
 
 Put your cursor in a variable or function and click <code>CMD+F2</code> then begin typing. This will find all occurrences in the open file and change them as you type, which is ideal for local refactoring.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/change-occurences.png" alt="change-occurrences.png" />
+<img src="/wp-content/uploads/2015/04/change-occurences.png" alt="change-occurrences.png" />
 
 <h2>Multi-Cursor</h2>
 
 Click + <code>OPTION</code> in your code. Then find another place in code and repeat, and repeat, and repeat. Now you have multiple cursors in the file and you can edit all of them at once!
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/multicursor1.png" alt="multicursor1" />
+<img src="/wp-content/uploads/2015/04/multicursor1.png" alt="multicursor1" />
 
 I love this, but I really want to also be able to do this through search via keyboard so I can find all instances of a phrase and then edit.
 
@@ -73,15 +73,15 @@ Sometimes you want to rename in 1 file, and other times you want to rename acros
 
 First put your cursor on the member and click <code>F2</code>.
 
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/rename1.png" alt="rename1.png" />
+<img src="/wp-content/uploads/2015/04/rename1.png" alt="rename1.png" />
 
 Then type the new name and hit the <code>Enter</code> key. This will rename all of the occurrences in every file in your project.
 
 This shows the newly renamed <code>getThePeople</code> method in the <code>dataservice.ts</code> file.
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/rename2.png" alt="rename2.png" />
+<img src="/wp-content/uploads/2015/04/rename2.png" alt="rename2.png" />
 
 This shows the newly renamed <code>getThePeople</code> method in the <code>dashboard.controller.ts</code> file.
-<img src="http://www.johnpapa.net/wp-content/uploads/2015/04/rename3.png" alt="rename3.png" />
+<img src="/wp-content/uploads/2015/04/rename3.png" alt="rename3.png" />
 
 <h2>Format Code</h2>
 

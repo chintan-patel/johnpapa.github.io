@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [anglebrackets, events, Uncategorized]
 ---
-<p>Let's go to ludicrous speed! <img src="http://www.johnpapa.net/wp-content/uploads/2014/03/spaceballs_large_02_medium-300x227.jpg" alt="spaceballs_large_02_medium" width="300" height="227" class="alignright size-medium wp-image-25661" />The Web is evolving at such an amazing pace that it's difficult to keep up with everything that is around us. When you have precious little time, how do you know what to focus on? One great way is to come to <a href="https://www.anglebrackets.org/register.aspx">AngleBrackets</a>! Next month (April 13-16) I will be joined by my friends Dan Wahlin and Ward Bell to present some awesome sessions at <a href="https://www.anglebrackets.org/register.aspx">AngleBrackets in Orlando</a>.</p>
+<p>Let's go to ludicrous speed! <img src="/wp-content/uploads/2014/03/spaceballs_large_02_medium-300x227.jpg" alt="spaceballs_large_02_medium" width="300" height="227" class="alignright size-medium wp-image-25661" />The Web is evolving at such an amazing pace that it's difficult to keep up with everything that is around us. When you have precious little time, how do you know what to focus on? One great way is to come to <a href="https://www.anglebrackets.org/register.aspx">AngleBrackets</a>! Next month (April 13-16) I will be joined by my friends Dan Wahlin and Ward Bell to present some awesome sessions at <a href="https://www.anglebrackets.org/register.aspx">AngleBrackets in Orlando</a>.</p>
 
 <p>Dan and I will be presenting a full day workshop on Angular, then I'll also be presenting or co-presenting these sessions:</p>
 

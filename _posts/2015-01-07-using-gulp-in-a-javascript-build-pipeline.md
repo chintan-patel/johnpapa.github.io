@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [gulp, javascript, pluralsight, Uncategorized]
 ---
-<img src="http://www.johnpapa.net/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="67" height="150" class="alignleft size-medium wp-image-52431" />When I can remove the friction between myself and the keyboard, it's a beautiful thing! I have more time to write code and not worry about repetitive processes. This is a key reason I love having a solid build pipeline and automated tasks in JavaScript. And my tool of choice is <a href="http://gulpjs.com">Gulp.js</a>.
+<img src="/wp-content/uploads/2014/11/gulp-2x-134x300.png" alt="gulp-2x" width="67" height="150" class="alignleft size-medium wp-image-52431" />When I can remove the friction between myself and the keyboard, it's a beautiful thing! I have more time to write code and not worry about repetitive processes. This is a key reason I love having a solid build pipeline and automated tasks in JavaScript. And my tool of choice is <a href="http://gulpjs.com">Gulp.js</a>.
 
 Last year I published my <a href="http://www.pluralsight.com/author/john-papa">Pluralsight</a> course <a href="http://jpapa.me/ngclean">Angular Patterns: Clean Code</a> and my <a href="http://jpapa.me/ngstyles">Angular Style Guide</a>, which go together. I had a lot of folks asking for more information on using Gulp, since these materials both gave a quick glimpse of it. So I decided to release a new course with Pluralsight titled "JavaScript Build Automation with Gulp.js", due out the end of Jan 2015. Here is a glimpse of what's coming:
 

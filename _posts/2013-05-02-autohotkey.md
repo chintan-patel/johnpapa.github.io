@@ -8,7 +8,7 @@ categories: [course, pluralsight, presentation, speaking, Uncategorized]
 ---
 Stressing over your upcoming presentation where you have to type a bunch of code from memory or from a script? <a href="http://www.autohotkey.com" target="_blank">AutoHotKey</a> can help you automate much of the "writing" of the code so you can write demos on the fly. AutoHotKey does so much more, but for a quick and simple way to write demos on the fly, it really is top-notch.
 
-<blockquote>You can learn more about AutoHotKey and other presentation tips in my upcoming <a href="http://www.pluralsight.com" target="_blank">Pluralsight</a> course "<a href="http://jpapa.me/artspeaking" target="_blank">The Art of Public Speaking and Effective Presentations" <img src="http://www.johnpapa.net/wp-content/uploads/2013/05/artspeaking-600x91.png" alt="artspeaking" width="600" height="91" class="aligncenter size-large wp-image-17921" /></a>
+<blockquote>You can learn more about AutoHotKey and other presentation tips in my upcoming <a href="http://www.pluralsight.com" target="_blank">Pluralsight</a> course "<a href="http://jpapa.me/artspeaking" target="_blank">The Art of Public Speaking and Effective Presentations" <img src="/wp-content/uploads/2013/05/artspeaking-600x91.png" alt="artspeaking" width="600" height="91" class="aligncenter size-large wp-image-17921" /></a>
 </blockquote>
 
 You could use notepad, a snippet tool, or even the toolbox in Visual Studio. But AutoHotKey provides more than those and it is a free tool. For example, AutoHotKey works in any editor. Create a script where you define your keystrokes and map them to code that will be pasted.
