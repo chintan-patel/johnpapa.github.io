@@ -11,7 +11,7 @@ Odds are you have been asked recently: "How does <a href="http://www.knockoutjs.
 If you hear this question, ask "why" the person is asking it. If s/he wants a JavaScript/HTML based presentation framework then suggest that you compare <a href="http://durandaljs.com/" target="_blank">Durandal</a> to Angular. Why? Because Knockout is at heart a data-binding library, while Angular and Durandal are presentation frameworks. This is a hugely important concept to grasp, so let's break down what's at the heart of these questions and how Knockout, Durandal and Angular approach them. But let's be clear: <strong>Knockout rocks. Durandal rocks. Angular rocks.</strong>
 
 Below is a snapshot of the libraries that each uses.
-<img src="/wp-content/uploads/2013/08/ng-d-600x280.png" alt="ng-d" width="600" height="280" class="aligncenter size-large wp-image-20011" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/08/ng-d-600x280.png" alt="ng-d" width="600" height="280" class="aligncenter size-large wp-image-20011" />
 
 <h2>Under the Covers</h2>
 Angular uses <a href="http://api.jquery.com/" target="_blank">jQuery</a> if present and falls back to its own <a href="http://docs.angularjs.org/api/angular.element" target="_blank">jqLite</a> otherwise. Durandal uses Knockout for data binding, RequireJS for dependency management, and jQuery (tho I can see this dwindling to a jqLite type presence in the future). They both uses promises too, which is a good thing! 

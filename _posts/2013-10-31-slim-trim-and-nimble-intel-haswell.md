@@ -8,7 +8,7 @@ categories: [haswel, intel, Uncategorized]
 ---
 I've been toting around my Intel Haswell Ultrabook for a few months now and the combination of slim, trim, fast, touch, and long battery life has mad eit my laptop of choice. I've had several review Ultrabooks (Intel has been gracious enough to send some my way) and they all had their pro's and cons, but this one has really set itself apart for me. I was even asked by a few folks if it was a black Mac Air! 
 
-<img src="/wp-content/uploads/2013/09/haswell-trim.jpg" alt="haswell trim" width="600" height="165" class="aligncenter size-full wp-image-20991" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/09/haswell-trim.jpg" alt="haswell trim" width="600" height="165" class="aligncenter size-full wp-image-20991" />
 
 It has not been all roses, however. This pre-production unit is my 3rd laptop from Intel. The first 2 had issues with the keyboard (keys fell off) and the fan (which ran like  helicopter). The folks at Intel were kind enough to fix these issues and since then I have been humming along and loving the device. To be fair, it's mostly due to the light weight and long battery life. The idea is to review the Intel hardware such as the Haswell chip, so I'll separate my experience with the Haswell chip from the pre-production prototype unit. 
 

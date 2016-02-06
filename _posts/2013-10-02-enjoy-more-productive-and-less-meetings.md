@@ -21,7 +21,7 @@ So what destroys meeting time? Here are a few common issues that need to be squa
 <h2>The Comfy Pillow</h2>
 When teams get overly comfortable, the meetings can go on and on to the point where the purpose gradually deviates so far from where you started that nobody knows why you are meeting anymore. Often these meetings run over the time limit too. Why does this happen? This is due to the comfy pillow effect, which happens when everyone gets so comfortable in their chairs they can just sit back and pontificate. The solution: remove the comfy pillow.
 
-<img src="/wp-content/uploads/2013/10/dsc_0031-560.jpg" alt="dsc_0031-560" width="300" height="238" class="alignleft size-full wp-image-21731" />Stand-ups are a simple way to be more productive. The idea is simple: short meetings with no chairs. Each person reviews their status and any blocking issues. I find these are most often useful when they are done in an uncomfortable area. A conference room built for this is ideal, where you have whiteboards at most ... no chairs at all. Tables are optional, but I prefer none. I find that teams do well with this once they get the idea that it has to stay on point and everyone gets their say. 
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/10/dsc_0031-560.jpg" alt="dsc_0031-560" width="300" height="238" class="alignleft size-full wp-image-21731" />Stand-ups are a simple way to be more productive. The idea is simple: short meetings with no chairs. Each person reviews their status and any blocking issues. I find these are most often useful when they are done in an uncomfortable area. A conference room built for this is ideal, where you have whiteboards at most ... no chairs at all. Tables are optional, but I prefer none. I find that teams do well with this once they get the idea that it has to stay on point and everyone gets their say. 
 
 <h2>The Derailer</h2>
 You can't have a person derailing the entire meeting. Well, you can ... but I really prefer not to. 
@@ -33,14 +33,14 @@ Your time is precious and it becomes too difficult to solve many problems at onc
 <h2>The 5 Year Old Soccer Game</h2>
 When I coached my daughters' 5 year old soccer games I sat in awe at how every kid on the field swarmed to the ball. It was so cute! They all wanted their time with the ball and left their positions to be around it. Even the goal-tenders abandoned the goals. it certainly isn't very effective, but the kids do love being close to each other and the ball. It's fun!
 
-<img src="/wp-content/uploads/2013/10/Soccer-10.jpg" alt="Soccer-10" width="225" height="215" class="alignleft size-full wp-image-21711" />People arrive at a meeting with an idea of what they want to get out of it. This is their position. When a tangent idea in a meeting is tossed up, it can produce other random off-shoots. Others in the meeting continue to take it off course  until eventually it gets so far from the point that everyone leaves their positions to swarm the ball. So how do you prevent or stop this?
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/10/Soccer-10.jpg" alt="Soccer-10" width="225" height="215" class="alignleft size-full wp-image-21711" />People arrive at a meeting with an idea of what they want to get out of it. This is their position. When a tangent idea in a meeting is tossed up, it can produce other random off-shoots. Others in the meeting continue to take it off course  until eventually it gets so far from the point that everyone leaves their positions to swarm the ball. So how do you prevent or stop this?
 
 Have a clearly laid out focus for the meeting. Write in on a board in the room. Say it. Multiple times. Make it sink in. When things go off course, circle back to it and remind folks to get back to their positions before someone scores on the open goal.
 
 <h2>The Mind Eraser</h2>
 Ever walk out of a meeting and wonder what just happened? I have. An hour goes by and everyone walks out not knowing what action items they should work on, not knowing who is doing what, and wondering what happened to their day. It's a deflating feeling to lose an hour of your life and not knowing what happened. It's like having that hour simply erased.
 
-<img src="/wp-content/uploads/2013/10/MIB-mind-eraser.jpg" alt="MIB-mind-eraser" width="400" height="309" class="aligncenter size-full wp-image-21681" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/10/MIB-mind-eraser.jpg" alt="MIB-mind-eraser" width="400" height="309" class="aligncenter size-full wp-image-21681" />
 
 You can avoid the Mind-Eraser meeting pretty simply by having an agenda. No, not just an agenda, but a clear-cut, simple, and well communicated agenda. Include in the meeting invite the agenda, whatever preparations are required, and what the result of them meeting will be.
 

@@ -7,10 +7,10 @@ comments: true
 categories: [course, javascript, pluralsight, typescript, Uncategorized]
 ---
 Finding errors earlier and more easily is one of the advantages of <a href="http://www.typescriptlang.org/" target="_blank">TypeScript</a>. You can use optionally static typed (optionally) variables, functions, objects to help detect possible mismatches in your code right in your editor. Simply add the appropriate type or define an interface for more complex and custom types, and you are off and running! Defining types is by far my favorite feature of TypeScript. 
-<a href="http://www.johnpapa.net/typescriptpost2/ts-grammar/" rel="attachment wp-att-13071"><img src="/wp-content/uploads/2013/01/ts-grammar.jpg" alt="ts grammar" width="599" height="181" class="aligncenter size-full wp-image-13071" /></a>
+<a href="http://www.johnpapa.net/typescriptpost2/ts-grammar/" rel="attachment wp-att-13071"><img src="http://images.johnpapa.net/wp-content/uploads/2013/01/ts-grammar.jpg" alt="ts grammar" width="599" height="181" class="aligncenter size-full wp-image-13071" /></a>
 
 <blockquote><a href="https://twitter.com/DanWahlin" target="_blank">Dan Wahlin</a> and I just released a new course for <a href="http://pluralsight.com" target="_blank">Pluralsight</a> that focuses on providing the fundamentals to write application-scale code using TypeScript. 
-<a href="http://jpapa.me/typescript101" target="_blank"><img src="/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
+<a href="http://jpapa.me/typescript101" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
 </blockquote>
 
 

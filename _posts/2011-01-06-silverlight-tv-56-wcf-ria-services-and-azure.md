@@ -14,7 +14,7 @@ categories: [Silverlight]
 <li>Deciding on the appropriate Azure trust settings</li>
 <li>Publishing the package to Azure</li>
 </ul>
-<p><a href="http://jpapa.me/sltv56"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" width="447" height="261" src="/wp-content/uploads/files/media/image/Windows-Live-Writer/cceda7ad9d62_9791/image_3.png" /></a></p>
+<p><a href="http://jpapa.me/sltv56"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" width="447" height="261" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/Windows-Live-Writer/cceda7ad9d62_9791/image_3.png" /></a></p>
 <p>Relevant links:</p>
 <ul>
 <li><a href="/">John's blog</a> and on Twitter (<a href="http://twitter.com/john_papa">@john_papa</a>)</li>

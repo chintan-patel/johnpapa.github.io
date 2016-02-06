@@ -7,7 +7,7 @@ comments: true
 categories: [All]
 ---
 <p>Here are some random and early notes from the first half of the PDC&rsquo;s keynote this morning, mostly about Azure.</p>
-<p><img title="image" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="317" alt="image" width="526" border="0" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/NotesfromthePDCKeyNote_B2E0/image_3.png" /></p>
+<p><img title="image" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="317" alt="image" width="526" border="0" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/NotesfromthePDCKeyNote_B2E0/image_3.png" /></p>
 <ul>
 <li><a href="http://go.microsoft.com/fwlink/?LinkID=130227">Windows Azure</a>
 <ul>
@@ -34,7 +34,7 @@ categories: [All]
 </ul>
 </li>
 </ul>
-<p><img title="image" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="236" alt="image" width="536" border="0" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/NotesfromthePDCKeyNote_B2E0/image_14.png" /></p>
+<p><img title="image" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="236" alt="image" width="536" border="0" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/NotesfromthePDCKeyNote_B2E0/image_14.png" /></p>
 <ul>
 <li>A lot of focus on migrating the enterprise application strategy to the cloud concept</li>
 <li>Partners include bluehoo and Red Prairie</li>

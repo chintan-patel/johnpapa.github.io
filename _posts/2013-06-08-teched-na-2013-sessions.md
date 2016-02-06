@@ -14,10 +14,10 @@ Watch the <a href="http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-
 <blockquote>Do you write a lot of HTML and JavaScript code to push and pull data? In this session, learn popular techniques to use data binding to bind your data to your target controls in HTML writing less code, but gaining more power. See how to consume JSON data, use JSON objects in JavaScript, use declarative binding, using KnockoutJS. Also, see how to use the MVVM pattern to write data-centric Javascript code that follows good separation patterns and creates highly maintainable code.
 </blockquote>
 
-<a href="/wp-content/uploads/files/downloads/KnockoutMVVM-TechEdNA2012.zip">Download the sample knockout demo here</a>, the <a href="http://jpapa.me/kotipsdump" target="_blank">dump binding handler here</a>, and <a href="https://speakerdeck.com/johnpapa/knockoutjs-and-mvvm-with-javascript-teched-2013" target="_blank">view the deck here</a>.
+<a href="http://images.johnpapa.net/wp-content/uploads/files/downloads/KnockoutMVVM-TechEdNA2012.zip">Download the sample knockout demo here</a>, the <a href="http://jpapa.me/kotipsdump" target="_blank">dump binding handler here</a>, and <a href="https://speakerdeck.com/johnpapa/knockoutjs-and-mvvm-with-javascript-teched-2013" target="_blank">view the deck here</a>.
 
 <h3>Learn More Knockout</h3>
-If you like this you can check out in my in depth Knockout course at <a href="http://www.pluralsight.com/">Pluralsight</a> at <a href="http://jpapa.me/komvvm">Building HTML5 and JavaScript Apps with MVVM and Knockout</a>. <a href="http://jpapa.me/komvvm"><br><img title="ko ps" border="0" alt="ko ps" src="/wp-content/uploads/media/Windows-Live-Writer/External-Templates-with-KnockoutJS_7A44/ko%20ps_3.png" width="504" height="81"></a>
+If you like this you can check out in my in depth Knockout course at <a href="http://www.pluralsight.com/">Pluralsight</a> at <a href="http://jpapa.me/komvvm">Building HTML5 and JavaScript Apps with MVVM and Knockout</a>. <a href="http://jpapa.me/komvvm"><br><img title="ko ps" border="0" alt="ko ps" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/External-Templates-with-KnockoutJS_7A44/ko%20ps_3.png" width="504" height="81"></a>
 
 <h3>Single Page Apps</h3>
 Watch the <a href="http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B350" target="_blank">Single Page Applications with Microsoft ASP.NET</a> here.
@@ -30,5 +30,5 @@ Watch the <a href="http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-
 <h3>Learn More SPA</h3>
 If you enjoyed my <a href="http://jpapa.me/spajsps" target="_blank">Single Page Application Jump-Start course</a>, you will be happy to learn that the <a href="http://jpapa.me/ccjshtcode" target="_blank">source code for the final SPA Jump-Start solution is now available</a>! The great folks at Pluralsight worked with me to host the final solution of Code Camper Jump-Start (CCJS) on GitHub. You can grab the code, fork it, make pull requests, or just browse!
 
-<a href="http://jpapa.me/spajsps" target="_blank"><img src="/wp-content/uploads/2013/03/spajs.png" alt="spajs" width="600" height="74" class="aligncenter size-full wp-image-16391" />
+<a href="http://jpapa.me/spajsps" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/03/spajs.png" alt="spajs" width="600" height="74" class="aligncenter size-full wp-image-16391" />
 </a>

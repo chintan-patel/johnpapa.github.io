@@ -8,7 +8,7 @@ categories: [course, pluralsight, speaking, Uncategorized]
 ---
 Looking to nail that coming presentation? Do you want to learn how to tell a story, engage the audience, leave them inspired? Taking a little different direction than my more recent end-to-end <a href="http://jpapa.me/spajsps" target="_blank">Single Page Application development courses</a>, I share with you some of the lessons (some I learned the hard way) and techniques that I've developed over the years in my experience as a presenter. 
 
-<a href="http://jpapa.me/artspeaking" target="_blank"><img src="/wp-content/uploads/2013/05/artspeaking-600x91.png" alt="artspeaking" width="600" height="91" class="aligncenter size-large wp-image-17921" /></a>
+<a href="http://jpapa.me/artspeaking" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/05/artspeaking-600x91.png" alt="artspeaking" width="600" height="91" class="aligncenter size-large wp-image-17921" /></a>
 
 My new course <a href="http://www.pluralsight.com" target="_blank">Pluralsight</a> course "<a href="http://jpapa.me/artspeaking" target="_blank">The Art of Public Speaking and Effective Presentations" </a> provides a road-map for delivering effective presentations and motivating an audience through forming your message, designing visuals and demos, preparing for the unexpected, and effective delivery strategies. By the end of this course, you will learn many techniques on how to become a more effective presenter. Along the way you’ll find tips from many accomplished speakers including some of your favorite Pluralsight authors.
 

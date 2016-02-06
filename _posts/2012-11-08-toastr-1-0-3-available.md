@@ -10,7 +10,7 @@ Just a few months ago <a href="http://twitter.com/hfjallemark">Hans Fjällemark<
 
 <blockquote>Update: Version is now 1.1.1, since there was an API change (still backwards compatible) - added AMD support and version number.</blockquote>
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/toastr_13960/image_2.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/toastr_13960/image_thumb.png" alt="image" width="377" height="79" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/toastr_13960/image_2.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/toastr_13960/image_thumb.png" alt="image" width="377" height="79" border="0" /></a>
 
 Simply include the files in your HTML page and write a simple line of code like this:
 <pre class="prettyprint">toastr.success('Are you the six fingered man?', 'Inigo Montoya');</pre>

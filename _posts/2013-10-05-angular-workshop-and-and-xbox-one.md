@@ -9,7 +9,7 @@ categories: [anglebrackets, angular, events, Uncategorized]
 If you want to learn how to build a SPA with <a href="http://angularjs.org" target="_blank">Angular</a> with me (<a href="https://www.anglebrackets.org/register.aspx" target="_blank">and get an Xbox One</a>), register for my <a href="http://anglebrackets.org/workshops.aspx" target="_blank">SPA workshop at AngleBrackets and DEVIntersection</a> and <strong>use code PAPA to get $50 off</strong> the conference registration! I hear workshop attendees can get an Xbox One too just for registering for a workshop!
 
 We'll cover syntax, but we'll focus on how to ask the right questions and what choices are important to make as we demonstrate the techniques. <a href="https://twitter.com/wardbell" target="_blank">Ward Bell</a> (1 brilliant mind behind <a href="http://breezejs.com" target="_blank">Breeze</a>) will be guest starring and frankly there isn't a data or business problem on Earth that he can't solve (or at least I haven't stumped him yet). So please join us for what should be an awesome day of SPA with Angular, Breeze, and real-world patterns for building web applications.
-<img src="/wp-content/uploads/2013/10/10-5-2013-11-41-40-AM.png" alt="10-5-2013 11-41-40 AM" width="600" height="398" class="aligncenter size-full wp-image-21801" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/10/10-5-2013-11-41-40-AM.png" alt="10-5-2013 11-41-40 AM" width="600" height="398" class="aligncenter size-full wp-image-21801" />
 
 Here is some of what we'll be covering, either in discussion or demos:
 

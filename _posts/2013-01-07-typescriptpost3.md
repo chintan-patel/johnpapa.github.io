@@ -7,10 +7,10 @@ comments: true
 categories: [course, javascript, oop, pluralsight, typescript, Uncategorized]
 ---
 It's likely that you've used classes and interfaces in statically typed languages to organizing your code into logical units. When you work with JavaScript these constructs do not exist, so we use the excellent replacements like constructor functions and the module pattern. However, you may still miss classes and interfaces (which play together quite nicely) and if so, you may want to take a closer look at <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>. Classes are being discussed for the next ECMAScript 6 revision, and as such, TypeScript has taken them under its wing. 
-<a href="http://www.johnpapa.net/typescriptpost3/typescript-classes/" rel="attachment wp-att-13381"><img src="/wp-content/uploads/2013/01/typescript-classes.jpg" alt="typescript classes" width="600" height="331" class="aligncenter size-full wp-image-13381" /></a>
+<a href="http://www.johnpapa.net/typescriptpost3/typescript-classes/" rel="attachment wp-att-13381"><img src="http://images.johnpapa.net/wp-content/uploads/2013/01/typescript-classes.jpg" alt="typescript classes" width="600" height="331" class="aligncenter size-full wp-image-13381" /></a>
 
 <blockquote><a href="https://twitter.com/DanWahlin" target="_blank">Dan Wahlin</a> and I just released a new course for <a href="http://pluralsight.com" target="_blank">Pluralsight</a> that focuses on providing the fundamentals to write application-scale code using TypeScript. 
-<a href="http://jpapa.me/typescript101" target="_blank"><img src="/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
+<a href="http://jpapa.me/typescript101" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
 </blockquote>
 
 

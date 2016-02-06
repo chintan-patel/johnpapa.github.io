@@ -53,7 +53,7 @@ So what is the downside? The only thing I don't get from Pluralsight videos that
 The pay? It has only been about a year, but the pay for videos has been on par and better than books I have written. 
 
 For topics courses like TypeScript or Knockout, where I focus on 1 topic and cover it widely, it takes me about 24 hours per module to write demos, slides, record and edit. For end to end courses, that average goes up to about 40 hours per module. For recording and editing, it takes me about 1 hour to produce 5 (to 10) minutes of video. it's slow, but still more fun than writing.
-<a href="http://www.pluralsight.com" target="_blank"><img src="/wp-content/uploads/2013/03/3-11-2013-6-02-08-PM.png" alt="3-11-2013 6-02-08 PM" width="196" height="51" class="aligncenter size-full wp-image-15881" /></a>
+<a href="http://www.pluralsight.com" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/03/3-11-2013-6-02-08-PM.png" alt="3-11-2013 6-02-08 PM" width="196" height="51" class="aligncenter size-full wp-image-15881" /></a>
 <blockquote>If you want to author a course for Pluralsight, i highly recommend giving it a try. You can contact them on their web site and please use me as a referral as they do provide a referral fee (under full disclosure). Shameless, maybe, but hey, I have 4 kids :)
 </blockquote>
 

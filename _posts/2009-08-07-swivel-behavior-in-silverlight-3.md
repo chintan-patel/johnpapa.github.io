@@ -14,7 +14,7 @@ pan><span style="color: #800000">EasingDoubleKeyFrame</span> <span style="color:
 <p><strong><font size="4">Behavior</font></strong></p>
 <p>So the immediate problem I have with this solution is that I want to reuse this storyboard in an application. I certainly do not want to copy and paste it everywhere. This is where behaviors and triggers make a big difference. Behaviors are one of the most exciting features in Silverlight 3 and Blend 3 to me. </p>
 <p>The goal is to make it as simple as possible to implement the swivel effect. So I rewrote the storyboards for the front to back to front swivels of the panels in .NET code inside of a behavior. This admittedly took a bit as I had to do something in .NET code that is considerably easier and faster to create in Blend. Download the code and you will see the difference between the first example, which uses storyboards in XAML, and the second example which uses .NET code in a behavior. It is not difficult by any means … but in Blend it took me 5 minutes to create the storyboard I wanted. It took me about an hour to convert and test the .NET code. </p>
-<p>Below you can see the code for the Swivel behavior class itself. <a href="/wp-content/uploads/files/downloads/swivelpaneldemo.zip">The complete code can be downloaded here.</a></p>
+<p>Below you can see the code for the Swivel behavior class itself. <a href="http://images.johnpapa.net/wp-content/uploads/files/downloads/swivelpaneldemo.zip">The complete code can be downloaded here.</a></p>
 <div style="border-bottom: silver 1px solid; text-align: left; border-left: silver 1px solid; padding-bottom: 4px; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; padding-left: 4px; width: 97.5%; padding-right: 4px; font-family: &#39;Courier New&#39;, courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; border-top: silver 1px solid; cursor: text; border-right: silver 1px solid; padding-top: 4px" id="codeSnippetWrapper">
 <div style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; padding-left: 0px; width: 100%; padding-right: 0px; font-family: &#39;Courier New&#39;, courier, monospace; direction: ltr; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px" id="codeSnippet">
 <pre style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: white; margin: 0em; padding-left: 0px; width: 100%; padding-right: 0px; font-family: &#39;Courier New&#39;, courier, monospace; direction: ltr; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px"><span style="color: #0000ff">public</span> <span style="color: #0000ff">class</span> Swivel : TriggerAction&lt;FrameworkElement&gt;</pre>
@@ -362,7 +362,7 @@ pan><span style="color: #800000">EasingDoubleKeyFrame</span> <span style="color:
 </div>
 <p>&#160;</p>
 <p>Once you create the behavior, it shows up in Blend in the Assets window, like this:</p>
-<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/SwivelBehaviorinSilverlight3_131F7/image_5.png" width="514" height="311" /> </p>
+<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/SwivelBehaviorinSilverlight3_131F7/image_5.png" width="514" height="311" /> </p>
 <p>You can then drag the behavior onto whatever element you want to control the behavior. In my demo, I use the MouseLeftButtonUp event of the Grid, like this:</p>
 <div style="border-bottom: silver 1px solid; text-align: left; border-left: silver 1px solid; padding-bottom: 4px; line-height: 12pt; background-color: #f4f4f4; margin: 20px 0px 10px; padding-left: 4px; width: 97.5%; padding-right: 4px; font-family: &#39;Courier New&#39;, courier, monospace; direction: ltr; max-height: 200px; font-size: 8pt; overflow: auto; border-top: silver 1px solid; cursor: text; border-right: silver 1px solid; padding-top: 4px" id="codeSnippetWrapper">
 <div style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; border-right-style: none; background-color: #f4f4f4; padding-left: 0px; width: 100%; padding-right: 0px; font-family: &#39;Courier New&#39;, courier, monospace; direction: ltr; border-top-style: none; color: black; font-size: 8pt; border-left-style: none; overflow: visible; padding-top: 0px" id="codeSnippet">
@@ -387,8 +387,8 @@ pan><span style="color: #800000">EasingDoubleKeyFrame</span> <span style="color:
 </div>
 <p>&#160;</p>
 <ul>
-<li><a href="/wp-content/uploads/files/downloads/swivelpaneldemo.zip">Download the source code here</a> </li>
-<li><a href="/wp-content/uploads/demos/swivelbehavior/default.html">Watch the demo here</a> or watch it below … (just click the panel to see it in action) </li>
+<li><a href="http://images.johnpapa.net/wp-content/uploads/files/downloads/swivelpaneldemo.zip">Download the source code here</a> </li>
+<li><a href="http://images.johnpapa.net/wp-content/uploads/demos/swivelbehavior/default.html">Watch the demo here</a> or watch it below … (just click the panel to see it in action) </li>
 </ul>
 <p>&#160;</p>
 <br /><script type="text/javascript" src="demo/Silverlight.js"></script><script type="text/javascript">

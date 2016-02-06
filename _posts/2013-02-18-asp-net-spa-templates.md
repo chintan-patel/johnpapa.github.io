@@ -51,7 +51,7 @@ I created a quick comparison chart of what's inside each template. All of them h
 <h2>ASP.NET SPA Template</h2>
 The intent of this template is to provide a starting place and sample for building a basic SPA with 1 view. If you want to move on from here to provide other features such as multiple views and sharing of data across those views, you can do that by pulling in other libraries like Sammy.js or Breeze.js (or choose your own favorites). Once you understand the SPA fundamentals, you can move on to build your own SPA using this as a starter model or see Hot Towel for a jump-start.
 
-<img src="/wp-content/uploads/2013/02/2-17-2013-11-49-15-PM.png" alt="2-17-2013 11-49-15 PM" width="500" height="347" class="aligncenter size-full wp-image-15311" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/02/2-17-2013-11-49-15-PM.png" alt="2-17-2013 11-49-15 PM" width="500" height="347" class="aligncenter size-full wp-image-15311" />
 
 I previously described the ASP.NET SPA template in my post <a href="http://www.johnpapa.net/inside-the-asp-net-single-page-apps-template/" target="_blank">Inside the ASP.NET SPA Template</a> here. Only a few things have changed since then in this template since its RC in December 2012. They added camelCasing of the JavaScript variables, which are converted from PascalCase from the server. This is nice since that is a common convention. 
 
@@ -66,7 +66,7 @@ window.todoApp.todoListViewModel = (function (ko, datacontext) {
 
 This provides intellisense when inside a foreach binding.
 
-<a href="http://www.johnpapa.net/asp-net-spa-templates/2-18-2013-12-09-28-am/" rel="attachment wp-att-15341"><img src="/wp-content/uploads/2013/02/2-18-2013-12-09-28-AM-600x216.png" alt="2-18-2013 12-09-28 AM" width="600" height="216" class="aligncenter size-large wp-image-15341" /></a>
+<a href="http://www.johnpapa.net/asp-net-spa-templates/2-18-2013-12-09-28-am/" rel="attachment wp-att-15341"><img src="http://images.johnpapa.net/wp-content/uploads/2013/02/2-18-2013-12-09-28-AM-600x216.png" alt="2-18-2013 12-09-28 AM" width="600" height="216" class="aligncenter size-large wp-image-15341" /></a>
 
 <h2>Hot Towel SPA Template</h2>
 
@@ -78,7 +78,7 @@ The Hot Towel SPA template is different from the other templates and makes use o
 
 
 
-<img alt="" src="http://johnpapa.net/wp-content/images/HotTowelPreview.png" />
+<img alt="" src="http://johnpapa.nethttp://images.johnpapa.net/wp-content/images/HotTowelPreview.png" />
 
 <h2>BreezeJS SPA Template</h2>
 <a href="http://www.breezejs.com/" target="_blank">Breeze </a>is an open source library for managing rich data in a JavaScript client. It handles querying, caching, change tracking, validation and more. The BreezeJS SPA template extends the ASP.NET SPA template with Breeze, showing how easily you can build a Single Page Application with BreezeJS for data and KnockoutJS for binding. Breeze is also featured in the Hot Towel SPA template.

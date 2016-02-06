@@ -35,7 +35,7 @@ I find myself looking for a file, a variable, a function, a git command, or a ta
 
 <code>CMD+SHIFT+P</code> is the most helpful keystroke you'll use in Visual Studio Code.  It also shows the keyboard mapping for each command.
 
-<img src="/wp-content/uploads/2015/04/cmdp.png" alt="CMD+P" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/cmdp.png" alt="CMD+P" />
 
 <blockquote>
   Notice that you can delete the <code>&gt;</code> and you are at the Navigate to File or Symbol palette. This is a nice feature so you can move between the various palettes easily.
@@ -47,7 +47,7 @@ I find myself looking for a file, a variable, a function, a git command, or a ta
 
 <strong>UPDATE: The 0.2.0 release on 05.29.2015 this was remapped from CMD+O to CMD+P</strong>
 
-<img src="/wp-content/uploads/2015/04/cmdo.png" alt="CMD+O" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/cmdo.png" alt="CMD+O" />
 
 <h3>Palettes ?</h3>
 
@@ -55,13 +55,13 @@ Are you sensing a theme here? There are a few palettes to remember. But the good
 
 You can also access this by <code>CMD+SHIFT+P</code> then delete the <code>&gt;</code>.
 
-<img src="/wp-content/uploads/2015/04/palettes.png" alt="palettes" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/palettes.png" alt="palettes" />
 
 <h3>Go to Symbol</h3>
 
 <code>CMD+SHIFT+O</code> opens the Go to Symbol palette. The <code>@</code> prefix tells VSCode that you are searching for a symbol. You can then search for a local variable or function.
 
-<img src="/wp-content/uploads/2015/04/gotosymbol1.png" alt="CMD+SHIFT+O" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/gotosymbol1.png" alt="CMD+SHIFT+O" />
 
 You can also access this by <code>CMD+SHIFT+P</code> then delete the <code>&gt;</code> and type <code>@</code>.
 
@@ -73,11 +73,11 @@ VSCode is context aware when showing the symbols. This means it makes it easy to
 
 This is context sensitive so in code it may categorize by property or function.
 
-<img src="/wp-content/uploads/2015/04/gotosymbol2.png" alt="symbol in code" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/gotosymbol2.png" alt="symbol in code" />
 
 While in json it may search by array, object or string.
 
-<img src="/wp-content/uploads/2015/04/gotosymbol3.png" alt="symbol in json" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/gotosymbol3.png" alt="symbol in json" />
 
 <h3>Open Symbol by Name</h3>
 
@@ -85,19 +85,19 @@ While in json it may search by array, object or string.
 
 This is context sensitive so in code it may categorize by property or function. For example, you can search for a symbol across your entire project. It searches the beginning of each symbol and it is clever enough to search by the changes in camel case (as shown below).
 
-<img src="/wp-content/uploads/2015/04/symbolsearch.png" alt="symbol by name" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/symbolsearch.png" alt="symbol by name" />
 
 <h3>Show Errors or Warnings</h3>
 
 <code>CMD+SHIFT+M</code> then type <code>!</code> shows all of the current warnings or errors in the Error palette. You can also open the Error palette by clicking on the error and warnings counter in the status bar.
 
-<img src="/wp-content/uploads/2015/04/warnings.png" alt="warnings" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/warnings.png" alt="warnings" />
 
 <h3>Help for Commands</h3>
 
 <code>CMD+P</code> then type <code>?</code> shows all of the types of global and editor commands you can run.
 
-<img src="/wp-content/uploads/2015/04/question.png" alt="question" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/question.png" alt="question" />
 
 <blockquote>
   We'll take a look at the git and task commands later in this post.
@@ -109,7 +109,7 @@ This is context sensitive so in code it may categorize by property or function. 
 
 I often want multiple instances of a tool open to work with different projects. VSCode makes this easy. Simply type <code>CMD+SHIFT+N</code> and a new instance of VSCode is opened.Here is show 2 instances (shrunken down a bit) with 2 different projects.
 
-<img src="/wp-content/uploads/2015/04/instances.png" alt="instances" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/instances.png" alt="instances" />
 
 <h3>New File</h3>
 
@@ -119,19 +119,19 @@ The simple <code>CMD+N</code> opens a new file. From here you can save, name it,
 
 Tired of losing changes? Or are you like me where you hit <code>CMD+S</code> all day long? VSCode let's you enable automatic saving of files through a menu option. Me? I turned this on and never looked back.
 
-<img src="/wp-content/uploads/2015/04/autosave.png" alt="autosave" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/autosave.png" alt="autosave" />
 
 If you enable auto save and you have watchers on your files, those watchers will execute every time you change a file.
 
 If you disable auto save and you make changes to a file, you will see dots next to the files in the Working Files list.
 
-<img src="/wp-content/uploads/2015/04/dirtyfiles.png" alt="dirtyfiles" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/dirtyfiles.png" alt="dirtyfiles" />
 
 <h3>Split the Editor</h3>
 
 <code>CMD+\</code> will split the editor. This is great for opening and viewing multiple files side by side. Especially helpful for markdown and markdown preview. Even more helpful when transpiling LESS to CSS or TypeScript to JavaScript.
 
-<img src="/wp-content/uploads/2015/04/sidebyside.png" alt="sidebyside" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/sidebyside.png" alt="sidebyside" />
 
 You can also open the sidebar from <code>CMD+P</code> using the two rectangle icon. Or you can hold the <code>CMD</code> and click with the mouse on the file in the File Explorer to open it in a new side panel.
 

@@ -16,13 +16,13 @@ categories: [Silverlight]
 <li>Minor graphical fixes</li>
 </ul>
 <p>The Settings page let&rsquo;s you choose the color of the Sticky note and shows the version number.</p>
-<p><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="588" height="452" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_13.png" /></p>
+<p><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="588" height="452" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_13.png" /></p>
 <p>So instead of using the default yellow, you could use a shade of orange.</p>
 <table>
 <tbody>
 <tr>
-<td><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="290" height="325" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_11.png" /></td>
-<td><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="295" height="323" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_12.png" /></td>
+<td><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="290" height="325" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_11.png" /></td>
+<td><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="image" border="0" alt="image" width="295" height="323" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/UpdatesandNewHomeforStickyPluginforSeesm_89F/image_12.png" /></td>
 </tr>
 </tbody>
 </table>

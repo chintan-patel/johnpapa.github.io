@@ -8,7 +8,7 @@ categories: [haswell, intel, review, Uncategorized]
 ---
 Intel sent me a prototype of a Haswell Developer Ultrabook to review in August. Last month I wrote a about my <a href="http://www.johnpapa.net/intel-haswell-first-look/" target="_blank">first impressions of the Intel Haswell Ultrabook</a>, which were pretty good. Since then I have used this ultrabook extensively on a daily basis and brought it with me to present several sessions at several conferences. 
 
-<img src="/wp-content/uploads/2013/09/haswell-trim.jpg" alt="haswell trim" width="600" height="165" class="aligncenter size-full wp-image-20991" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/09/haswell-trim.jpg" alt="haswell trim" width="600" height="165" class="aligncenter size-full wp-image-20991" />
 
 Before I give my impressions, <a href="http://www.hanselman.com/blog/AMonthWithAnIntelHaswellPrototype.aspx" target="_blank">like Scott</a>, I had several issues with the pre-production hardware. It wasn't unexpected as these are not-for-resale prototypes, which Intel made very clear to me. The idea is to review the Intel hardware such as the Haswell chip, so I'll separate my experience with the Haswell chip from the pre-production prototype unit. 
 

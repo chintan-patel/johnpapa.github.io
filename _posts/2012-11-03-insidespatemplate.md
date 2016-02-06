@@ -8,7 +8,7 @@ categories: [html5, javascript, knockout, mvvm, SPA, Uncategorized, visual studi
 ---
 There are a bunch of shiny new toys, including a new Single Page App (SPA) template, inside the <a href="http://www.asp.net/vnext/overview/fall-2012-update/aspnet-fall-2012-update-release-notes" target="_blank">ASP.NET Fall 2012 Update BUILD Prelease </a> ( <a href="http://www.asp.net/vnext/overview/fall-2012-update" target="_blank">Download link for it is on this page here</a> ) . The original template for SPA made an appearance over a year ago in a preview and was later removed prior to VS 2012 being released. (You may recall Upshot.js was part of the former template before both of their demises) The first run at the former template wasn't really a template, but rather a specific way to create a SPA. This new template is a template . Kudos to <a href="https://twitter.com/mkristensen" target="_blank">Mads Kristensen</a> for spearheading this at Microsoft. Here is the sample app that they give you when you choose the new SPA template.
 <blockquote><strong style="color: red;">UPDATE: </strong> This post has been updated. There is a new version of this template in the ASP.NET and Web Tools 2012.2 (Release Candidate). <a href="inside-the-asp-net-single-page-apps-template" target="_blank">You can read my latest post on this for more details</a>. Most of the server side code has not changed, however the JavaScript has changed considerably and for the better in the latest version.</blockquote>
-<a href="http://www.johnpapa.net/insidespatemplate/spa-todo-2/" rel="attachment wp-att-8571"><img class="aligncenter size-full wp-image-8571" title="spa todo" alt="" src="/wp-content/uploads/2012/11/spa-todo1-e1352003009937.png" width="549" height="307" /></a>
+<a href="http://www.johnpapa.net/insidespatemplate/spa-todo-2/" rel="attachment wp-att-8571"><img class="aligncenter size-full wp-image-8571" title="spa todo" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/11/spa-todo1-e1352003009937.png" width="549" height="307" /></a>
 <h2>What Do You Get?</h2>
 <ul>
 	<li>ASP.NET Web API Controllers</li>
@@ -30,7 +30,7 @@ There are a bunch of shiny new toys, including a new Single Page App (SPA) templ
 The template gets you started with the intent of helping you avoid the "blank page" syndrome and instead having a starting point for creating a SPA. Where you take it from there is up to you. This is especially important since there are many good ways to create a SPA.  The key takeaway use it as a starting point to get you going.
 <blockquote>For more information about SPA's you can refer to my <a href="http://www.johnpapa.net/building-single-page-apps-with-knockout-jquery-and-web-api-ndash-the-story-begins" target="_blank">SPA blog post series</a> or watch my <a href="http://jpapa.me/spaps" target="_blank">video course on building Single Page Apps</a>.
 
-<a href="http://jpapa.me/spaps" target="_blank"><img class="aligncenter size-full wp-image-8761" title="spaps" alt="" src="/wp-content/uploads/2012/11/spaps1.png" width="508" height="92" /></a>
+<a href="http://jpapa.me/spaps" target="_blank"><img class="aligncenter size-full wp-image-8761" title="spaps" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/11/spaps1.png" width="508" height="92" /></a>
 <ul>
 	<li>Part 1 – <a href="http://jpapa.me/spapost1">The Story Begins (What is the Code Camper SPA?)</a></li>
 	<li>Part 2 – <a href="http://jpapa.me/spapost2">Client Technologies</a></li>
@@ -60,7 +60,7 @@ They toss a very simple sample DbContext at you based on Entity Framework. You c
 <h2>Models</h2>
 The template comes with a series of models and Data Transfer Objects (DTO's). It's interesting that they decided to use both models and DTO's which are intended to be vessels for the models' data to send to the client.  This does offer more separation of models from DTO's but I'm not sure I'd have gone this route with a template. I'd instead start with the models and not add the DTO's til I actually needed one. (Or possibly I'd use a projection, but that's a tale for another time.)
 
-<a href="/wp-content/uploads/2012/11/todo-models.png"><img class="aligncenter size-full wp-image-8581" title="todo models" alt="" src="/wp-content/uploads/2012/11/todo-models.png" width="189" height="130" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/2012/11/todo-models.png"><img class="aligncenter size-full wp-image-8581" title="todo models" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/11/todo-models.png" width="189" height="130" /></a>
 <h2>Web API Controllers</h2>
 The template comes with a TodoListController and a TodoController.  They both have the [Authorize] attribute on the web api method calls, which is a good practice. The TodoListController has several methods for CRUD including a GetTodoLists (which gets all of the todo lists). It returns an IEnumerable (though with the new features it would be more interesting to return an IQueryable). Notice the code below retrieves the  Todo entities and then creates the Todo DTO's from them, before returning them to the caller. Pretty straightforward. Of course, they also have the CUD method from CRUD (Create, Update and Delete).
 <pre class="prettyprint linenums">    [Authorize]

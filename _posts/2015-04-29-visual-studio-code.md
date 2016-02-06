@@ -25,9 +25,9 @@ If you want to see the video demo from //Build you can view it here.
 
 Visual Studio Code (VSCode) is a lightweight, super fast, cross platform development tool for building Web applications. It works well with both Node and ASP.NET v5.
 
-<img src="/wp-content/uploads/2015/04/vscode-icon-sm.png" alt="Visual Studio Code" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/vscode-icon-sm.png" alt="Visual Studio Code" />
 
-<img src="/wp-content/uploads/2015/04/vsc.png" alt="Visual Studio Code" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/vsc.png" alt="Visual Studio Code" />
 
 From their download page they describe Visual Studio Code succinctly as:
 

@@ -7,7 +7,7 @@ comments: true
 categories: [haswell, intel, review, ultrabook, Uncategorized, windows 8]
 ---
 I'm excited that I just received an Intel Haswell Ultrabook to review! Last year <a href="http://www.johnpapa.net/win8sensors/" target="_blank">I reviewed an Intel Ivy Bridge Ultrabook with Windows 8 and touch screen</a>. Overall I was happy with the device, the hardware, and sensors. Battery life was so-so, but then again, it was about the same as most other machines so no big expectations there anyway. But this is a new year and the Intel Haswell chip has set some pretty big expectations. 
-<img src="/wp-content/uploads/2013/08/WP_20130804_010.jpg" alt="Intel Haswell Profile" width="554" height="337" class="aligncenter size-full wp-image-19311" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/08/WP_20130804_010.jpg" alt="Intel Haswell Profile" width="554" height="337" class="aligncenter size-full wp-image-19311" />
 The folks at Intel recently sent me a Haswell based Ultrabook to examine and provide feedback. They made it clear, in about every way imaginable other than a personal visit, that this is a model that will never be a production laptop “as-is”. It is branded as Intel for the purpose of reviewing and testing. Yet the parts are true Intel parts and these are what we'll see in models very soon. 
 
 In this post I’ll be giving my impressions of the unboxing experience. I’ll follow up with a few more posts on how it performs after I have more time to put it through some real power use for extended periods.
@@ -30,7 +30,7 @@ The screen looks really sharp and the colors are excellent. On par with my Surfa
 
 <h2>Windows 8 Apps</h2>
 I tried out several Windows 8 store apps including some games like Toy Story Smash It, Royal Revolt, and Temple Run Brave. These looked and performed great especially with the touch, accelerometer, and gestures! In fact, my kids didn't want to give the Ultrabook back to me after I let them try it. I also tried out several apps that used touch, location, and other sensors. Everything worked very well, which was as you would expect. (<a href="http://software.intel.com/en-us/articles/ultrabook-and-tablet-windows-8-sensors-development-guide/">You can learn more about these available sensors here</a>).
-<img src="/wp-content/uploads/2013/08/WP_20130804_0051-490x600.jpg" alt="haswell open" width="490" height="600" class="aligncenter size-large wp-image-19371" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/08/WP_20130804_0051-490x600.jpg" alt="haswell open" width="490" height="600" class="aligncenter size-large wp-image-19371" />
 <h2>Writing Code and Battery Life</h2>
 In my early tests, from a powered off state I managed to boot and get to the login screen in just a few seconds. I loaded Visual Studio 2013 Preview and I worked on my next Angular and Breeze Single Page Apps project on this Intel Haswell Ultrabook for 5.5 hours straight on battery. When I stopped, the battery indicator said I had about 1.5 hours remaining. I was very impressed as I was using it heavily for the entire 5.5 hours. I've never had a Ultrabook that was a comfortable enough size, good screen, fast enough, and long enough battery life to sit nowhere near a plug. Usually I can get all of that but I need to stay plugged in. 
 

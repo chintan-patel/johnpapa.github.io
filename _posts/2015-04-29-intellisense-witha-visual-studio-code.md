@@ -12,7 +12,7 @@ You can also hit <code>CTRL+SPACE</code> and get intellisense.
 
 If you hover over a variable VSCode shows the signature of a function or the type of a variable, if it can be determined.
 
-<img src="/wp-content/uploads/2015/04/hover.png" alt="hover" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/hover.png" alt="hover" />
 
 <h2>Visual Studio Code Series</h2>
 
@@ -31,7 +31,7 @@ Follow this series to learn more about what you can do with Visual Studio Code!
 
 Out of the box we get basic intellisense for what the editor can determine on its own about the JavaScript code. VSCode will tell you a function's signature or what variables are available in scope.
 
-<img src="/wp-content/uploads/2015/04/js-hint1.png" alt="js-hint1" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/js-hint1.png" alt="js-hint1" />
 
 When working in node.js VSCode provides intellisense across all of your JavaScript modules (the ones you write).
 
@@ -39,11 +39,11 @@ When working in node.js VSCode provides intellisense across all of your JavaScri
 
 Now let's assume you want intellisense for the JavaScript libraries or node modules you use on the client or server. Perhaps you are using Angular and you want intellisense on it. Notice the green squiggly line under <code>angular</code>? Put your cursor on it then click the light bulb ( or <code>CMD+.</code> ) and choose <code>Add /// reference to angularjs/angular.d.ts</code>.
 
-<img src="/wp-content/uploads/2015/04/js-hint2.png" alt="js-hint2" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/js-hint2.png" alt="js-hint2" />
 
 VSCode will go and get the typings definition file for Angular and add it to your project, reference it in the file and you instantly have intellisense for Angular! (VSCode grabs the typings files from the Definately Typed repository.)
 
-<img src="/wp-content/uploads/2015/04/js-hint3.png" alt="js-hint3" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/js-hint3.png" alt="js-hint3" />
 
 We can now repeat this by adding jQuery code to a file. Put the cursor on the <code>$</code>, click <code>CMD+.</code>, and pull down the typings file. Now we have jQuery intellisense, too.
 
@@ -66,7 +66,7 @@ This produces a <code>tsd.d.ts</code> file which you can reference in your JavaS
 
 If you try to create a type in a JavaScript file, VSCode will warn you that it is not valid.
 
-<img src="/wp-content/uploads/2015/04/js-hint4.png" alt="js-hint4" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/js-hint4.png" alt="js-hint4" />
 
 <h2>TypeScript Intellisense</h2>
 
@@ -80,8 +80,8 @@ Intellisense works in well known JSON files too, including <code>package.json</c
 
 Here you can see it finding all npm packages that match <code>gulp</code>.
 
-<img src="/wp-content/uploads/2015/04/jsonintellisense1.png" alt="jsonintellisense1.png" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/jsonintellisense1.png" alt="jsonintellisense1.png" />
 
 Here you can see it finding the most appropriate versions and showing a message about what the versions mean.
 
-<img src="/wp-content/uploads/2015/04/jsonintellisense2.png" alt="jsonintellisense2.png" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2015/04/jsonintellisense2.png" alt="jsonintellisense2.png" />

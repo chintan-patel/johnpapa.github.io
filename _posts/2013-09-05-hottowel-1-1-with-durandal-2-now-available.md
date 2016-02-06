@@ -13,7 +13,7 @@ In the past 7 months since I introduced HotTowel as a way to jump-start SPA deve
 
 If you like these templates, join me in thanking <a href="https://twitter.com/xinqiu" target="_blank">Xinyang Qiu</a> of Microsoft who helped me get through some of the more confusing parts of creating the templates. :)
 
-<img alt="" src="http://johnpapa.net/wp-content/images/HotTowelPreview.png" />
+<img alt="" src="http://johnpapa.nethttp://images.johnpapa.net/wp-content/images/HotTowelPreview.png" />
 
 Hot Towel creates a great starting point for building a <a href="http://johnpapa.net/spa" target="_blank">Single Page Application (SPA)</a> with ASP.NET. Out of the box you it provides a modular structure for your code, view navigation, data binding, rich data management and simple but elegant styling. It provides everything you need to build a SPA, so you can focus on your app, not the plumbing.
 <blockquote>Learn more about building a SPA from <a href="http://johnpapa.net/spa?vsix">my videos, tutorials and Pluralsight courses</a>.</blockquote>
@@ -33,5 +33,5 @@ As always, you can <a href="http://johnpapa.net/hottowel" target="_blank">find a
 
 <h2>Update</h2>
 Eventually we should be seeing a more unified "One ASP.NET" approach when creating a project. Scott Hanselman has been a big driver behind this effort. i expect that is one reason why currently in the VS 2013 Preview the ASP.NET templates are now under a <code>Visual Studio 2012</code> folder in the <code>New Project</code> dialog. I am not sure if this will move in the future, but that is my gut feel. For now, if you are running VS 2013 Preview and you cannot find the HotTowel SPA template, refer to my image below to locate it.
-<img src="/wp-content/uploads/2013/09/2013-2012-mvc-600x302.png" alt="2013 2012 mvc" width="600" height="302" class="aligncenter size-large wp-image-20681" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/09/2013-2012-mvc-600x302.png" alt="2013 2012 mvc" width="600" height="302" class="aligncenter size-large wp-image-20681" />
 

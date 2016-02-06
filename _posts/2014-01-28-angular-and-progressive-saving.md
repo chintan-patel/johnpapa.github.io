@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [angular, ngconf, Uncategorized]
 ---
-<img src="/wp-content/uploads/2014/01/ngconf1-150x150.png" alt="ngconf" width="150" height="150" class="alignleft size-thumbnail wp-image-23371" />Last week I had the privilege of presenting at <a href="http://ng-conf.org" target="_blank">ngConf</a> which was jam packed with some awesome presentations. My presentation was on Progressive Saving with Angular, where you can stash work in progress in local storage and come back to it. It was an abbreviated version of what I present in my <a href="http://jpapa.me/spangz" target="_blank">Pluralsight course Building Apps with Angular and Breeze Part 1</a> and <a href="http://jpapa.me/spangz2" target="_blank">Part 2</a>, where I explore this concept in detail.
+<img src="http://images.johnpapa.net/wp-content/uploads/2014/01/ngconf1-150x150.png" alt="ngconf" width="150" height="150" class="alignleft size-thumbnail wp-image-23371" />Last week I had the privilege of presenting at <a href="http://ng-conf.org" target="_blank">ngConf</a> which was jam packed with some awesome presentations. My presentation was on Progressive Saving with Angular, where you can stash work in progress in local storage and come back to it. It was an abbreviated version of what I present in my <a href="http://jpapa.me/spangz" target="_blank">Pluralsight course Building Apps with Angular and Breeze Part 1</a> and <a href="http://jpapa.me/spangz2" target="_blank">Part 2</a>, where I explore this concept in detail.
 
 You can watch my presentation here.
 <iframe width="560" height="315" src="//www.youtube.com/embed/JLij19xbefI" frameborder="0" allowfullscreen></iframe>

@@ -120,7 +120,7 @@ margin: 0em;
 }
 .csharpcode .lnum { color: #606060; }</style>
 <p>The problem can often be caused by doing what developers do well: debugging code. If you put a breakpoint in your code that invokes the Print method and walk over the Print method, you could see the exception shown above. </p>
-<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/PrintingTipHandlingUserInitiatedDialogsE_A2B9/image_3.png" width="588" height="235" /> </p>
+<p><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/PrintingTipHandlingUserInitiatedDialogsE_A2B9/image_3.png" width="588" height="235" /> </p>
 <p>The easy solution is to remove the breakpoint and let the code run through.</p>
 <p>Pretty simple … but not always obvious … hope this helps.</p>
 <p>&#160;</p>

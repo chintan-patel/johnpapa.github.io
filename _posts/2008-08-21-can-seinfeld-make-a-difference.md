@@ -7,7 +7,7 @@ comments: true
 categories: [All]
 ---
 <p><a href="http://www.foxnews.com/story/0,2933,407702,00.html">According to FOXNews.com and the WSJ</a>, Microsoft has hired an ad company and Jerry Seinfeld to help its image amongst the famous Mac vs PC ads. We&rsquo;ve all seen them, laughed at them, and many of us see the obvious flaws in them. But the problem is that people believe these ads and they believe that Mac is far superior to PCs. It does not help that Vista has had such an infamous start either.</p>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/CanSeinfeldMakeaDifference_8412/image_2.png"><img title="image" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 5px; border-right-width: 0px" height="146" alt="image" width="196" align="right" border="0" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/CanSeinfeldMakeaDifference_8412/image_thumb.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/CanSeinfeldMakeaDifference_8412/image_2.png"><img title="image" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 0px 0px 5px; border-right-width: 0px" height="146" alt="image" width="196" align="right" border="0" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/CanSeinfeldMakeaDifference_8412/image_thumb.png" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

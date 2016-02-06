@@ -58,7 +58,7 @@ categories: [Silverlight]
 <table border="0" cellspacing="2" cellpadding="2" width="565">
 <tbody>
 <tr>
-<td valign="top" width="200"><a href="http://www.silverlight.net/community/samples/silverlight-4/rich-notepad/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="217" height="162" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/3SilverlightFreeDemos_A7D6/image_5.png" /></a></td>
+<td valign="top" width="200"><a href="http://www.silverlight.net/community/samples/silverlight-4/rich-notepad/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="217" height="162" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/3SilverlightFreeDemos_A7D6/image_5.png" /></a></td>
 <td valign="top" width="357">
 <p>Using this notepad application demonstrates the rich text features supported in Silverlight, including bi-directional support, embedding in-line controls, datagrid, etc. Silverlight as a drop target for files, printing, mouse wheel and right-click features are also demonstrated. <br />
 Features demonstrated:</p>

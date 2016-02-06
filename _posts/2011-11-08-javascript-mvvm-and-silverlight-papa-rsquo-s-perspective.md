@@ -8,7 +8,7 @@ categories: [html5, javascript, mvvm, Silverlight, Uncategorized, windows 8]
 ---
 I’ve been writing again after what amounted to a 2+ year break. In the past 3 months I’ve written 10+ articles, many of which are published for Visual Studio Magazine in my <a href="/papa-rsquo-s-perspective-debuts">new 1 page editorial column Papa’s Perspective</a>. I’m enjoying the column so far as I get to write about a variety of technologies and burning hot topics, all from my view in the cheap seats.
 
-<a href="http://jpapa.me/PapasPerspective"><img class="alignnone" style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="pp" src="/wp-content/uploads/media/Windows-Live-Writer/Papas-Perspective_124F2/pp_7.png" alt="pp" width="604" height="153" border="0" /></a>
+<a href="http://jpapa.me/PapasPerspective"><img class="alignnone" style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="pp" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/Papas-Perspective_124F2/pp_7.png" alt="pp" width="604" height="153" border="0" /></a>
 
 The deal is that I write 1 article for the print magazine of Visual Studio Magazine each month and I write 2 for the online magazine. They all end up online, which is cool since I can link and share them all.
 

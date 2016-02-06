@@ -23,4 +23,4 @@ The demo code can be downloaded <a href="http://archive.msdn.microsoft.com/mag20
 
 If you are interested in KnockoutJS, you’ll want to check out my course for <a href="http://www.pluralsight.net">Pluralsight</a> which <a href="http://jpapa.me/komvvm">covers KnockoutJS in depth.</a>
 
-<a href="http://jpapa.me/komvvm"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="ko ps" src="/wp-content/uploads/media/Windows-Live-Writer/bbe49adbff7e_140DD/ko%20ps_3.png" alt="ko ps" width="1095" height="188" border="0" /></a>
+<a href="http://jpapa.me/komvvm"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="ko ps" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/bbe49adbff7e_140DD/ko%20ps_3.png" alt="ko ps" width="1095" height="188" border="0" /></a>

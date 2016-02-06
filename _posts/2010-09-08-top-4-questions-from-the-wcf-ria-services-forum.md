@@ -61,7 +61,7 @@ In this episode, Deepesh addresses the following questions: <br />
 </ul>
 <p>Follow us on Twitter <a href="http://www.twitter.com/SilverlightTV">@SilverlightTV</a> or on the web at <a href="http://silverlight.tv">http://silverlight.tv</a>&nbsp;</p>
 <blockquote>
-<p><a href="http://jpapa.me/learnwp7"><img style="margin: 10px; display: inline" border="0" align="left" width="53" height="71" alt="" src="/wp-content/uploads/files/media/image/lwpcover.png" /></a>&nbsp; Are you developing with Windows Phone 7? You can pre-order <a href="http://jpapa.me/learnwp7">Learning Windows Phone Programming</a> today, by Jaime Rodriguez, Yochay Kiriaty and John Papa! Or check out <a href="http://www.learningwindowsphone.com">the book's web site</a>.</p>
+<p><a href="http://jpapa.me/learnwp7"><img style="margin: 10px; display: inline" border="0" align="left" width="53" height="71" alt="" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/lwpcover.png" /></a>&nbsp; Are you developing with Windows Phone 7? You can pre-order <a href="http://jpapa.me/learnwp7">Learning Windows Phone Programming</a> today, by Jaime Rodriguez, Yochay Kiriaty and John Papa! Or check out <a href="http://www.learningwindowsphone.com">the book's web site</a>.</p>
 </blockquote>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -74,7 +74,7 @@ In this episode, Deepesh addresses the following questions: <br />
 </tr>
 <tr>
 <td width="162">
-<p><a href="http://channel9.msdn.com/shows/SilverlightTV/"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="MediumSLTVBanner" border="0" alt="MediumSLTVBanner" width="122" height="66" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/MediumSLTVBanner_3.png" /></a>&nbsp;</p>
+<p><a href="http://channel9.msdn.com/shows/SilverlightTV/"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="MediumSLTVBanner" border="0" alt="MediumSLTVBanner" width="122" height="66" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/MediumSLTVBanner_3.png" /></a>&nbsp;</p>
 </td>
 <td width="306">
 <p><a href="http://silverlight.tv/">Watch Silverlight TV Shows on Channel 9</a></p>
@@ -84,7 +84,7 @@ In this episode, Deepesh addresses the following questions: <br />
 <tr>
 <td width="162">
 <p>&nbsp;</p>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/RSS_2.png"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="RSS" border="0" alt="RSS" width="36" height="36" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/RSS_thumb.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/RSS_2.png"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="RSS" border="0" alt="RSS" width="36" height="36" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/3StepstoMEFSilverlightTVEpisode4_12BDA/RSS_thumb.png" /></a></p>
 </td>
 <td width="306">
 <p><a href="http://channel9.msdn.com/shows/SilverlightTV/RSS/">Subscribe to the RSS feed for the show itself</a></p>
@@ -94,7 +94,7 @@ In this episode, Deepesh addresses the following questions: <br />
 </tr>
 <tr>
 <td width="162">
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/7f977e907c4d_EE29/SilverlightTV_Bug_2.png"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="SilverlightTV_Bug" border="0" alt="SilverlightTV_Bug" width="64" height="64" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/7f977e907c4d_EE29/SilverlightTV_Bug_thumb.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/7f977e907c4d_EE29/SilverlightTV_Bug_2.png"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="SilverlightTV_Bug" border="0" alt="SilverlightTV_Bug" width="64" height="64" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/7f977e907c4d_EE29/SilverlightTV_Bug_thumb.png" /></a></p>
 </td>
 <td width="306">
 <p>Follow <a href="http://www.twitter.com/SilverlightTV">@SilverlightTV</a> on Twitter for updates, alerts for new shows, and to submit comments and feedback.</p>

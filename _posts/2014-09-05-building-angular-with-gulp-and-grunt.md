@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [adventuresinangular, angular, grunt, gulp, Uncategorized]
 ---
-<p><a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> You've built your JavaScript application but how do you automate testing, code analysis, running it locally or deploying it? These monotonous tasks can consume valuable time and resources. Learn more about <a href="http://devchat.tv/adventures-in-angular/006-aia-build-processes">Grunt and Gulp in this week's episode of Adventures in Angular</a>.</p>
+<p><a href="http://adventuresinangular.com"><img src="http://images.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> You've built your JavaScript application but how do you automate testing, code analysis, running it locally or deploying it? These monotonous tasks can consume valuable time and resources. Learn more about <a href="http://devchat.tv/adventures-in-angular/006-aia-build-processes">Grunt and Gulp in this week's episode of Adventures in Angular</a>.</p>
 
 <ul>
 <li><a href="http://adventuresinangular.com">Adventures in Angular web page</a></li>

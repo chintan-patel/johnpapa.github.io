@@ -6,7 +6,7 @@ author: John
 comments: true
 categories: [adventuresinangular, angular, angularjs, Uncategorized]
 ---
-<a href="http://adventuresinangular.com"><img src="/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss Microsoft's latest tooling for Angular on this <a href="http://jpapa.me/AiA-019">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/MKristensen">Mads Kristensen</a> for this episode as we dive into tooling strategies. You can also read the transcripts on our site.
+<a href="http://adventuresinangular.com"><img src="http://images.johnpapa.net/wp-content/uploads/2014/08/AiA-logo-sm.png" alt="AiA logo - sm" width="100" height="101" class="alignleft size-full wp-image-32351" /></a> The Adventures in Angular team gathered to discuss Microsoft's latest tooling for Angular on this <a href="http://jpapa.me/AiA-019">week's episode of Adventures in Angular</a>. Join us and special guest <a href="https://twitter.com/MKristensen">Mads Kristensen</a> for this episode as we dive into tooling strategies. You can also read the transcripts on our site.
 
 <h2>Adventures in Angular</h2>
 

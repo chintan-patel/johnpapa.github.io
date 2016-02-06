@@ -15,7 +15,7 @@ If you enjoy developing with <a href="http://Knockoutjs.com" target="_blank">Kno
 
 
 
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/x-2/" rel="attachment wp-att-11201"><img src="/wp-content/uploads/2012/12/x1-600x115.png" alt="" title="x" width="600" height="115" class="aligncenter size-large wp-image-11201" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/x-2/" rel="attachment wp-att-11201"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/x1-600x115.png" alt="" title="x" width="600" height="115" class="aligncenter size-large wp-image-11201" /></a>
 
 
 The ASP.NET and Visual Web Developer teams released the ASP.NET and Web Tools 2012.2 update (Release Candidate) last week. There were many features in this release that you can <a href="http://weblogs.asp.net/scottgu/archive/2012/12/14/announcing-the-asp-net-and-web-tools-2012-2-release-candidate.aspx" target="_blank">check them out in Scott Gu's post here</a>. In this post I'll focus on a tooling feature that adds Visual Studio 2012 editor support for Knockout IntelliSense.
@@ -23,7 +23,7 @@ The ASP.NET and Visual Web Developer teams released the ASP.NET and Web Tools 20
 
 
 <blockquote>Knockout.js is a popular data binding library that provides databinding between targets elements in HTML (Views) and source objects in JavaScript (ViewModels). You can learn more about Knockout at my Pluralsight course <a href="http://jpapa.me/komvvm" target="_blank">Building HTML5 and JavaScript Apps with MVVM and Knockout</a>.
-<a href="http://jpapa.me/komvvm"><img alt="" src="/wp-content/uploads/media/Windows-Live-Writer/7323e2fa09cf_145CD/image_3.png" title="Knockout Course" class="aligncenter" width="1026" height="205" /></a></blockquote>
+<a href="http://jpapa.me/komvvm"><img alt="" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/7323e2fa09cf_145CD/image_3.png" title="Knockout Course" class="aligncenter" width="1026" height="205" /></a></blockquote>
 
 
 With this release, when you are in the HTML editor you will see intellisense when you type in a data-bind attribute. The following features will appear:
@@ -47,21 +47,21 @@ Then type <space>db<tab><tab> and get:
 <h2>Built in Bindings</h2>
 When type in a data-bind attribute you will see a list of the built in bindings that Knockout supports and any custom bindings that you created and are available in your context. If you don't see it you can hit CTRL-&lt;SPACE> and it should appear in a list. 
 
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/ko-intellisense/" rel="attachment wp-att-11051"><img src="/wp-content/uploads/2012/12/ko-intellisense.png" alt="" title="ko intellisense" width="437" height="213" class="aligncenter size-full wp-image-11051" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/ko-intellisense/" rel="attachment wp-att-11051"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/ko-intellisense.png" alt="" title="ko intellisense" width="437" height="213" class="aligncenter size-full wp-image-11051" /></a>
 
 <h2>Knockout Region Highlighting</h2>
 By default you get a new "Knockout Region" that you can change the foreground and background color. This is the one thing I don't like, and I changed my examples to use a more subtle background color that blends in with my dark theme background. I'll show you how to change it. Notice how the background of the Knockout Region (the data-bind attribute) stands out in the image below?
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/12-15-2012-9-30-55-pm/" rel="attachment wp-att-11021"><img src="/wp-content/uploads/2012/12/12-15-2012-9-30-55-PM-600x39.png" alt="" title="12-15-2012 9-30-55 PM" width="600" height="39" class="aligncenter size-large wp-image-11021" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/12-15-2012-9-30-55-pm/" rel="attachment wp-att-11021"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/12-15-2012-9-30-55-PM-600x39.png" alt="" title="12-15-2012 9-30-55 PM" width="600" height="39" class="aligncenter size-large wp-image-11021" /></a>
 
 Under Tools | Options to to Environment and then Fonts and Colors. Then you can find the Knockout Region and you will likely want to change the Item Background color from its default. In my dark theme, the color was a bright grey by default. It made it really hard to read. So I changed it to a more subtle color. Hopefully this will change in the final release, but hey, its easy enough to change on your own (see below).
 
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/ko-region/" rel="attachment wp-att-11011"><img src="/wp-content/uploads/2012/12/ko-region-600x348.png" alt="" title="ko region" width="600" height="348" class="aligncenter size-large wp-image-11011" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/ko-region/" rel="attachment wp-att-11011"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/ko-region-600x348.png" alt="" title="ko region" width="600" height="348" class="aligncenter size-large wp-image-11011" /></a>
 
 If you type multiple bindings in the same data-bind attribute, you'll separate them with a comma. When you type the comma you can again get intellisense for the available Knockout bindings. Very cool.
 
 <h2>Custom Bindings</h2>
 The cool part is that any custom bindings that you create are also accessible in the intellisense. In the SPA Template they give you 4 custom Knockout binding handlers. These are located in the <code class="keyword">todo.bindings.js</code> file which is included in the todo script bundle in the Index.cshtml view. Notice below how the blurOnEnter custom binding appears.
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/bluronenter/" rel="attachment wp-att-11071"><img src="/wp-content/uploads/2012/12/bluronenter.png" alt="" title="bluronenter" width="569" height="290" class="aligncenter size-full wp-image-11071" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/bluronenter/" rel="attachment wp-att-11071"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/bluronenter.png" alt="" title="bluronenter" width="569" height="290" class="aligncenter size-full wp-image-11071" /></a>
 
 I'm a big fan testing new features so I know what works and what doesn't work. So I tested this out by creating a new JavaScript file called <code class="keyword">todo.mybindings.js</code>. I added a binding handler called fakeBinding to it. Then I added a reference to it in the <code class="keyword">/scripts/_references.js</code> file. Then I went back to the View and my fakeBinding showed up in the intellisense. This is a really nice feature. Of course, if you add a binding you'll want to include your new JavaScript file in the page too (in a script tag or in a script bundle).
 
@@ -91,7 +91,7 @@ Once you type the colon in the data-bind attribute you want to enter a member of
     };
 </pre>
 These now appear in the intellisense, as shown below.
-<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/vm-members/" rel="attachment wp-att-11081"><img src="/wp-content/uploads/2012/12/vm-members-600x102.png" alt="" title="vm members" width="600" height="102" class="aligncenter size-large wp-image-11081" /></a>
+<a href="http://www.johnpapa.net/knockout-intellisense-in-visual-studio-2012/vm-members/" rel="attachment wp-att-11081"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/vm-members-600x102.png" alt="" title="vm members" width="600" height="102" class="aligncenter size-large wp-image-11081" /></a>
 
 When you add new members to the ViewModel they will appear in the intellisense list, too.
 

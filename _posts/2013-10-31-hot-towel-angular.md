@@ -8,7 +8,7 @@ categories: [angular, bower, hottowel, nuget, pluralsight, Uncategorized]
 ---
 Looking for an easy way to kick-start your <a href="http://angularjs.org" target="_blank">Angular</a> app development in under a minute? Now you can with <a href="http://nuget.org/packages/hottowel.angular" target="_blank">HotTowel.Angular, a free NuGet package</a> (and soon to become a Bower package too). What do you get? Let's take a look ...
 
-<img src="/wp-content/uploads/2013/09/HotTowel-NG-Preview-600x322.png" alt="HotTowel-NG-Preview" width="600" height="322" class="aligncenter size-large wp-image-20961" />
+<img src="http://images.johnpapa.net/wp-content/uploads/2013/09/HotTowel-NG-Preview-600x322.png" alt="HotTowel-NG-Preview" width="600" height="322" class="aligncenter size-large wp-image-20961" />
 
 <h3>What's Inside?</h3>
 There are a few libraries out of the box that come with HotTowel.Angular. Of course Angular is in here, but there are a few others I bundled into this package as they work very well together and I find myself wanting them in most apps. They help add a bit of style, theming, and helpers.
@@ -42,7 +42,7 @@ Install-Package HotTowel.Angular
 I hope you all enjoy HotTowel.Angular! 
 
 If you want to learn more about creating apps with Angular, please check out my course <a href="http://jpapa.me/spangz" target="_blank">Build Apps with Angular and Breeze</a> at Pluralsight.
-<a href="http://jpapa.me/spangz" target="_blank"><img src="/wp-content/uploads/2013/10/10-26-2013-6-49-25-PM-600x77.png" alt="10-26-2013 6-49-25 PM" width="600" height="77" class="aligncenter size-large wp-image-22081" />
+<a href="http://jpapa.me/spangz" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/10/10-26-2013-6-49-25-PM-600x77.png" alt="10-26-2013 6-49-25 PM" width="600" height="77" class="aligncenter size-large wp-image-22081" />
 </a>
 
 

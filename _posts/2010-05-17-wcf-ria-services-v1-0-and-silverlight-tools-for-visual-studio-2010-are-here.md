@@ -17,27 +17,27 @@ categories: [Silverlight]
 <li>Go To Value Definition lets you directly locate nested styles</li>
 </ul>
 <blockquote>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_8.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="204" height="149" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_2.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_8.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="204" height="149" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_2.png" /></a></p>
 </blockquote>
 <ul>
 <li>Using the new &quot;Data Can&quot; to pinpoint data hookups</li>
 </ul>
 <blockquote>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_12.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="201" height="100" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_4.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_12.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="201" height="100" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_4.png" /></a></p>
 </blockquote>
 <ul>
 <li>Style Intellisense</li>
 </ul>
 <blockquote>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_10.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="200" height="123" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_3.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_10.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="200" height="123" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_3.png" /></a></p>
 </blockquote>
 <ul>
 <li>Moving stuff around in complex Grid panels using the new right click &quot;goodies&quot;&nbsp;</li>
 </ul>
 <blockquote>
-<p><a href="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_14.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="195" height="167" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_5.png" /></a></p>
+<p><a href="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_14.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="195" height="167" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_thumb_5.png" /></a></p>
 </blockquote>
-<p><a href="http://channel9.msdn.com/shows/SilverlightTV/Silverlight-4-Tools-for-Visual-Studio-2010-Launch-New-Designer-Capabilities-Silverlight-TV-27/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="535" height="312" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_3.png" /></a></p>
+<p><a href="http://channel9.msdn.com/shows/SilverlightTV/Silverlight-4-Tools-for-Visual-Studio-2010-Launch-New-Designer-Capabilities-Silverlight-TV-27/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="535" height="312" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_3.png" /></a></p>
 <p>You can learn more about the new features from the <a href="http://blogs.msdn.com/wpfsldesigner">Cider Designer blog</a>, too.</p>
 <p>Relevant links:</p>
 <ul>
@@ -51,7 +51,7 @@ categories: [Silverlight]
 <h3>WCF RIA Services v1.0 Launch! (Silverlight TV 28)</h3>
 <p><a href="http://channel9.msdn.com/shows/SilverlightTV/WCF-RIA-Services-v10-Launch-Silverlight-TV-28/">In show #28 of Silverlight TV</a>, Nikhil Kothari and Dinesh Kulkarni join John to announce the official release of WCF RIA Services v1.0! They discuss the road their teams took to create RIA Services, some of the decision points that helped shape the product, and the high level of community involvement in the product's evolution. They also demonstrate some of the features of RIA Services and give a glimpse at what the future may have in store for it. Dinesh and Nikhil have worked on RIA Services from its beginnings and have seen it evolve through several names (4 by my rough count). Don't miss this episode with 2 key leaders of RIA Services!</p>
 <p>Following the V1 release of RIA Services, there is also a community <a href="http://dotnet.uservoice.com/pages/57026-wcf-ria-services?filter=top&amp;page=1">voting page for v_next features</a>. We&rsquo;d love to hear your feedback as we plan for future releases.</p>
-<p><a href="http://channel9.msdn.com/shows/SilverlightTV/WCF-RIA-Services-v10-Launch-Silverlight-TV-28/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="523" height="303" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_6.png" /></a> <br />
+<p><a href="http://channel9.msdn.com/shows/SilverlightTV/WCF-RIA-Services-v10-Launch-Silverlight-TV-28/"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" width="523" height="303" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/75bf622b457e_13363/image_6.png" /></a> <br />
 Relevant links:</p>
 <ul>
 <li><a href="/">John's Blog</a> and on Twitter(<a href="http://twitter.com/john_papa">@john_papa</a>)</li>

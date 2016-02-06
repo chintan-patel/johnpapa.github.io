@@ -26,23 +26,23 @@ Before you get started, I recommend installing the <a href="http://www.microsoft
 <h2>Setup of Orchard using WebMatrix</h2>
 <a href="http://www.asp.net/WebMatrix">I used WebMatrix</a> to install Orchard and handle a few other tasks along the way. It really did simplify things so I highly recommend using it. Once installed, I ran WebMatrix and clicked on the button to create a new site from <strong>Web Gallery</strong>. I then search for orchard, entered the new site name (JohnPapa.net) and clicked the <strong>next </strong>button. This took about 15 seconds and I had a site up and running locally.
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_2.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb.png" alt="image" width="504" height="365" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_2.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb.png" alt="image" width="504" height="365" border="0" /></a>
 
 The next step is to configure the settings for the site, which I did by clicking the link to the localhost url in WebMatrix. This brings up the new Orchard site’s Get Started page (shown below). I entered the name of the site, chose a user name for the admin user,   and a password. I chose to use a SQL Server CE database for the simplicity and portability of the sdf file. Then I also chose the blog Orchard Recipe type.
 <blockquote>NOTE: If you choose SQL CE and want to migrate to SQL Express or SQL Server later you can.</blockquote>
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_8.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_3.png" alt="image" width="504" height="721" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_8.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_3.png" alt="image" width="504" height="721" border="0" /></a>
 
 The recipe gets baked and within seconds the blog is appears in the browser using a default blog template.
 <h2>Themes</h2>
 Looks and layout are important, so the first place I headed was the Themes gallery. You can get there by going to the Dashboard, selecting the Themes section and selecting the Gallery tab. From here, I looked for themes that fit my idea of a blog. The Super Classic one is not bad.
 <blockquote>Note: I am using a custom theme not in the gallery, for now.</blockquote>
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML24adfc68.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="SNAGHTML24adfc68" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML24adfc68_thumb.png" alt="SNAGHTML24adfc68" width="504" height="362" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML24adfc68.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="SNAGHTML24adfc68" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML24adfc68_thumb.png" alt="SNAGHTML24adfc68" width="504" height="362" border="0" /></a>
 
 Once you find a theme you like, install it. Then click on the Themes / Installed tab and find the theme you want. Then click it’s <strong>Set Current </strong>button. The theme I chose has a side panel on the right where I planned to put my widgets (just like the Super Classic and Classic themes above). You can change themes at any time.
 <h2>Orchard Modules</h2>
 One of the best parts of Orchard is that they follow the model of many other popular blogs by allowing you to import modules to add functionality. The first thing I recommend doing is adding several key modules from the Orchard Gallery. Easiest way to do this is to go to your new blog’s Dashboard, select Modules, then select the Gallery tab. From here you can search for and install (or download and install) the modules.
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML248594bf.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="SNAGHTML248594bf" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML248594bf_thumb.png" alt="SNAGHTML248594bf" width="504" height="221" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML248594bf.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="SNAGHTML248594bf" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/SNAGHTML248594bf_thumb.png" alt="SNAGHTML248594bf" width="504" height="221" border="0" /></a>
 <blockquote>Note: Once you install a module, if there is an update for the module available in the online gallery then an alert will appear in your site in the module section. Nice feature!</blockquote>
 I installed most modules right from this page. However, I found it easier to search the <a href="http://orchardproject.net/gallery">http://orchardproject.net/gallery</a> site online in some cases.
 
@@ -67,7 +67,7 @@ Here are the modules I added and some important notes for each:
 </tr>
 <tr>
 <td valign="top" width="126"><a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.Contrib.GoogleAnalytics">Google Analytics</a></td>
-<td valign="top" width="439">For Google analytics. Once installed, go to Settings and enter your analytics tracking ID. I installed the one from Nathan Heskew and Sebastien Ros (there are 2 with the same name <img class="wlEmoticon wlEmoticon-sadsmile" style="border-style: none;" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/wlEmoticon-sadsmile_2.png" alt="Sad smile" /> )</td>
+<td valign="top" width="439">For Google analytics. Once installed, go to Settings and enter your analytics tracking ID. I installed the one from Nathan Heskew and Sebastien Ros (there are 2 with the same name <img class="wlEmoticon wlEmoticon-sadsmile" style="border-style: none;" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/wlEmoticon-sadsmile_2.png" alt="Sad smile" /> )</td>
 </tr>
 <tr>
 <td valign="top" width="126"><a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.Contrib.RewriteRules">Rewrite Rules</a></td>
@@ -114,7 +114,7 @@ There are many more modules, some which I already added and other that I plan to
 
 For the <a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.Orchard.Email">Email Messaging</a> module I went to the Settings area in the Dashboard and found there were a few new settings sections for the new modules I installed. The Email settings required the sender’s email address, host name, port number, and credential information for my blog’s SMTP server.
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_6.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_2.png" alt="image" width="237" height="484" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_6.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_2.png" alt="image" width="237" height="484" border="0" /></a>
 
 <strong>Contact Us</strong>
 
@@ -122,7 +122,7 @@ Once this module is installed and set up, you'll need to enable this module as i
 
 a simple page was available at <a href="/contact">/contact</a> as shown below:
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_14.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_6.png" alt="image" width="404" height="279" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_14.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_6.png" alt="image" width="404" height="279" border="0" /></a>
 
 <strong>Search</strong>
 
@@ -140,13 +140,13 @@ I then added an Html Widget which is great for adding any HTML content. In this 
 
 The <a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.Drewby.FollowMe">FollowMe</a> module was written by Drew Robbins and is a clean and simple module that adds something like this image:
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_10.png"><img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_4.png" alt="image" width="244" height="68" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_10.png"><img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_4.png" alt="image" width="244" height="68" border="0" /></a>
 
 When I added the widget, I edited its settings by entering the Twitter Url, Facebook Url, Rss Url, and Flickr Url. You can also add one for email and YouTube. I left these latter 2 blank, which made the widget not display them (which is what I wanted).
 <blockquote>Note: You can add a title to the widgets, but I generally avoid this as I think it adds clutter to the panel.</blockquote>
 Notice the widgets in the image below are displayed in gray when disabled. Also notice that many of the widgets say Html Widget (their type). I would prefer that I could add a title but mark it as hidden. This would allow me to see the name of the widget in the dashboard instead of seeing a ton of Html Widget types.
 
-<a href="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_12.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_5.png" alt="image" width="504" height="716" border="0" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_12.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://images.johnpapa.net/wp-content/uploads/media/Windows-Live-Writer/5df882b575d3_12C4C/image_thumb_5.png" alt="image" width="504" height="716" border="0" /></a>
 <h2>LatestTwitter</h2>
 I tried a few of the Twitter widgets and there are several nice ones. The one I ended up with is a simple widget with few features called <a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.LatestTwitter">LatestTwitter</a>. I like it because its pretty basic and does what I need yet allows me to customize the appearance.
 <blockquote>Note: There is also a widget called <a href="http://orchardproject.net/gallery/List/Modules/Orchard.Module.Twitter">Twitter</a> which allows you to create a scrolling list of tweets, shows searches, and much more. I installed it and it works nice. I just did not need that for now.</blockquote>

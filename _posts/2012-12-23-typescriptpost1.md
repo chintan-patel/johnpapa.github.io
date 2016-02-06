@@ -8,7 +8,7 @@ categories: [course, javascript, pluralsight, typescript, Uncategorized]
 ---
 <a href="http://www.typescriptlang.org/" target="_blank">TypeScript</a> is touted as a language for "application-scale JavaScript development". It is a typed (optionally) superset of JavaScript that compiles to JavaScript (ES3 or ES5 compliant, your choice). When Microsoft first released the preview for TypeScript, I was attracted to it because it doesn't try to invent something new. Rather, TypeScript takes JavaScript, and adds in optional static typing and a bunch of features that ES6 is looking at. So you don't have to learn something completely different. In fact, you can also <a href="http://www.johnpapa.net/debug-with-typescript08/" target="_blank">debug TypeScript either in the browser or right in Visual Studio 2012</a>!
 
-<a href="http://www.johnpapa.net/typescriptpost1/ts/" rel="attachment wp-att-11591"><img src="/wp-content/uploads/2012/12/ts.png" alt="" title="ts" width="258" height="75" class="aligncenter size-full wp-image-11591" /></a>
+<a href="http://www.johnpapa.net/typescriptpost1/ts/" rel="attachment wp-att-11591"><img src="http://images.johnpapa.net/wp-content/uploads/2012/12/ts.png" alt="" title="ts" width="258" height="75" class="aligncenter size-full wp-image-11591" /></a>
 
 <h2>TypeScript Fundamentals</h2>
 Over the past few months, <a href="https://twitter.com/DanWahlin" target="_blank">Dan Wahlin</a> and I have been working on a new course for <a href="http://pluralsight.com" target="_blank">Pluralsight</a> with a working title of "TypeScript Fundamentals". The course, which is due out after the holidays, focuses on providing the fundamentals you need to write application-scale code using TypeScript. The course is divided into 4 sections:
@@ -21,7 +21,7 @@ Over the past few months, <a href="https://twitter.com/DanWahlin" target="_blank
 
 As the course approaches is publication in January, I'll be blogging a little about each section. This post will focus on the first section of the course. I'll post about the other sections over the next few weeks prior to the course being released.
 
-<blockquote>UPDATE! <a href="https://twitter.com/DanWahlin" target="_blank">Dan Wahlin</a> and I just released a our new TypeScript course for <a href="http://pluralsight.com" target="_blank">Pluralsight</a>. <a href="http://jpapa.me/typescript101" target="_blank"><img src="/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
+<blockquote>UPDATE! <a href="https://twitter.com/DanWahlin" target="_blank">Dan Wahlin</a> and I just released a our new TypeScript course for <a href="http://pluralsight.com" target="_blank">Pluralsight</a>. <a href="http://jpapa.me/typescript101" target="_blank"><img src="http://images.johnpapa.net/wp-content/uploads/2013/01/tslogo-600x96.jpg" alt="tslogo" width="600" height="96" class="aligncenter size-large wp-image-13581" /></a>
 </blockquote>
 
 

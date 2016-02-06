@@ -18,7 +18,7 @@ The biggest change is in better Separation of Concerns (SoC) and Knockout intell
 </ul>
 <h2>Using the Template</h2>
 Create a new MVC 4 Web Application and then choose the Single Page Application template.
-<a href="http://www.johnpapa.net/inside-the-asp-net-single-page-apps-template/spatemplate/" rel="attachment wp-att-10471"><img class="aligncenter size-large wp-image-10471" title="spatemplate" alt="" src="/wp-content/uploads/2012/12/spatemplate-600x542.png" width="600" height="542" /></a>
+<a href="http://www.johnpapa.net/inside-the-asp-net-single-page-apps-template/spatemplate/" rel="attachment wp-att-10471"><img class="aligncenter size-large wp-image-10471" title="spatemplate" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/12/spatemplate-600x542.png" width="600" height="542" /></a>
 <h2>The View</h2>
 The code below comes form the index.cshtml view inside of the Views/Home folder of the sample app. Notice it starts off with a quick check to make sure the user is authenticated. If they are not, it shows a login page (not shown below), but if they are authenticated the page displays the available Todo lists. This is a simple way to add some authentication to your app using some built in ASP.NET features.
 <pre class="prettyprint">@if (@User.Identity.IsAuthenticated)
@@ -61,7 +61,7 @@ At the bottom of the View is where the JavaScript bundles are located. The bundl
 }</pre>
 <h2>The Scripts</h2>
 All JavaScript is contained within the Scripts folder. All custom scripts (ones you would write specific to your app) are contained within the app folder. I was glad to see this simple change to the template as I find it vastly easier to find my custom scripts without having to search through all of the scripts (including the 3rd party ones). It also makes it easier to bundle them (just grab that folder) or to automate static code analysis on that specific folder.
-<a href="http://www.johnpapa.net/inside-the-asp-net-single-page-apps-template/12-15-2012-6-22-29-pm/" rel="attachment wp-att-10601"><img class="aligncenter size-full wp-image-10601" title="app folder" alt="" src="/wp-content/uploads/2012/12/12-15-2012-6-22-29-PM.png" width="257" height="409" /></a>
+<a href="http://www.johnpapa.net/inside-the-asp-net-single-page-apps-template/12-15-2012-6-22-29-pm/" rel="attachment wp-att-10601"><img class="aligncenter size-full wp-image-10601" title="app folder" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/12/12-15-2012-6-22-29-PM.png" width="257" height="409" /></a>
 Notice that there are only 5 custom scripts in this app.
 <ul>
 	<li><code class="keyword">ajaxLogin.js</code> manages auth</li>
@@ -233,7 +233,7 @@ On the server they toss a very simple sample DbContext at you based on Entity Fr
 <h2>Server Side Models</h2>
 The template comes with a series of models and Data Transfer Objects (DTO's). It's interesting that they decided to use both models and DTO's which are intended to be vessels for the models' data to send to the client.  This does offer more separation of models from DTO's but I'm not sure I'd have gone this route with a template. I'd instead start with the models and not add the DTO's til I actually needed one. (Or possibly I'd use a projection, but that's a tale for another time.)
 
-<a href="/wp-content/uploads/2012/11/todo-models.png"><img class="aligncenter size-full wp-image-8581" title="todo models" alt="" src="/wp-content/uploads/2012/11/todo-models.png" width="189" height="130" /></a>
+<a href="http://images.johnpapa.net/wp-content/uploads/2012/11/todo-models.png"><img class="aligncenter size-full wp-image-8581" title="todo models" alt="" src="http://images.johnpapa.net/wp-content/uploads/2012/11/todo-models.png" width="189" height="130" /></a>
 <h2>Web API Controllers</h2>
 The template comes with a TodoListController and a TodoController.  They both have the [Authorize] attribute on the web api method calls, which is a good practice. The TodoListController has several methods for CRUD including a GetTodoLists (which gets all of the todo lists). It returns an IEnumerable (though with the new features it would be more interesting to return an IQueryable). Notice the code below retrieves the  Todo entities and then creates the Todo DTO's from them, before returning them to the caller. Pretty straightforward. Of course, they also have the CUD method from CRUD (Create, Update and Delete).
 

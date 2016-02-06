@@ -8,7 +8,7 @@ categories: [All]
 ---
 <p>Over at the <a href="http://blogs.msdn.com/expression/archive/2008/09/25/expression-blend-2-sp1-preview-released.aspx">Expression Blend and Design team blog they just announced that the Expression Blend 2 SP1 preview is released</a>. It allows you to create content for the release candidate for Silverlight 2.</p>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=3AE4DC3A-61AA-41F4-A9B8-4334A76FA447&amp;displaylang=en">You can download it from this link</a>.</p>
-<p><img title="image" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="113" alt="image" width="125" border="0" src="/wp-content/uploads/files/media/image/WindowsLiveWriter/ExpressionBlend2SP1PreviewIsReady_B2D/image_3.png" /></p>
+<p><img title="image" style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="113" alt="image" width="125" border="0" src="http://images.johnpapa.net/wp-content/uploads/files/media/image/WindowsLiveWriter/ExpressionBlend2SP1PreviewIsReady_B2D/image_3.png" /></p>
 <p>One of the keys to this release is that unlike other Blend previews, there is no side by side installation with this one. In other words, this is an installation that must be put on top of an existing Blend 2.0 installation. The post also states that this Blend 2 SP 1 version has the same features as the older Blend 2.5 previews. This can be a bit confusing since basically the 2.5 previews are now obsolete and the latest version of Blend that will work with Silverlight release candidate (when it comes out) is Blend 2 + Blend 2 SP 1.</p>
 <p>According to the download site, to use this version you need:</p>
 <ul>
